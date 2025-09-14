@@ -1,514 +1,514 @@
-14.9.2025 21:10:04.793 [VerboseDebug] Entering runphase Initialization
-14.9.2025 21:10:04.795 [VerboseDebug] Entering runphase Configuration
-14.9.2025 21:10:04.823 [VerboseDebug] Entering runphase LoadAssets
-14.9.2025 21:10:04.947 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod D:\games\Vintage Story\Mods\VSCreativeMod.dll
-14.9.2025 21:10:04.955 [VerboseDebug] [VSCreativeMod.dll] Selected assembly D:\games\Vintage Story\Mods\VSCreativeMod.dll
-14.9.2025 21:10:04.956 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod D:\games\Vintage Story\Mods\VSEssentials.dll
-14.9.2025 21:10:04.972 [VerboseDebug] [VSEssentials.dll] Selected assembly D:\games\Vintage Story\Mods\VSEssentials.dll
-14.9.2025 21:10:04.979 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod D:\games\Vintage Story\Mods\VSSurvivalMod.dll
-14.9.2025 21:10:04.988 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly D:\games\Vintage Story\Mods\VSSurvivalMod.dll
-14.9.2025 21:10:05.111 [VerboseDebug] [overhaullib] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\overhaullib_1.8.0.zip_5fa8910b32a4\Overhaullib.dll
-14.9.2025 21:10:05.116 [VerboseDebug] [overhaullib] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\overhaullib_1.8.0.zip_5fa8910b32a4\Overhaullib.dll
-14.9.2025 21:10:05.116 [VerboseDebug] [sprintmomentum] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\SprintMomentum_0.1.3.zip_f3bb5788a5bd\SprintMomemtum.dll
-14.9.2025 21:10:05.116 [VerboseDebug] [sprintmomentum] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\SprintMomentum_0.1.3.zip_f3bb5788a5bd\SprintMomemtum.dll
-14.9.2025 21:10:05.117 [VerboseDebug] [vsimgui] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImGui.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImGuiController_OpenTK.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImGuizmo.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImNodes.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImPlot.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\VSImGui.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\VSImGui_DebugTools.dll
-14.9.2025 21:10:05.120 [VerboseDebug] [vsimgui] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\VSImGui.dll
-14.9.2025 21:10:05.120 [VerboseDebug] [bullseyecontinued] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\bullseyecontinued_3.4.3.zip_4ef8b43e08df\Bullseye.dll
-14.9.2025 21:10:05.120 [VerboseDebug] [bullseyecontinued] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\bullseyecontinued_3.4.3.zip_4ef8b43e08df\Bullseye.dll
-14.9.2025 21:10:05.120 [VerboseDebug] [combatoverhaul] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\combatoverhaul_0.9.3.zip_9bbddc97535c\CombatOverhaul.dll
-14.9.2025 21:10:05.120 [VerboseDebug] [combatoverhaul] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\combatoverhaul_0.9.3.zip_9bbddc97535c\CombatOverhaul.dll
-14.9.2025 21:10:05.120 [VerboseDebug] [kemono] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\kemono_v0.1.7-COFix3.zip_97630e5699f9\kemono.dll
-14.9.2025 21:10:05.121 [VerboseDebug] [kemono] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\kemono_v0.1.7-COFix3.zip_97630e5699f9\kemono.dll
-14.9.2025 21:10:05.121 [VerboseDebug] [krpgenchantment] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\krpgenchantment_1.1.5.zip_dfa7d23c9cd6\krpgenchantment.dll
-14.9.2025 21:10:05.122 [VerboseDebug] [krpgenchantment] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\krpgenchantment_1.1.5.zip_dfa7d23c9cd6\krpgenchantment.dll
-14.9.2025 21:10:05.122 [VerboseDebug] [maltiezcrossbows] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezcrossbows_1.5.2.zip_dcc6bc5cedae\crossbows.dll
-14.9.2025 21:10:05.122 [VerboseDebug] [maltiezcrossbows] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezcrossbows_1.5.2.zip_dcc6bc5cedae\crossbows.dll
-14.9.2025 21:10:05.122 [VerboseDebug] [maltiezfirearms] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezfirearms_1.2.2.zip_a22caed815ba\firearms.dll
-14.9.2025 21:10:05.123 [VerboseDebug] [maltiezfirearms] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezfirearms_1.2.2.zip_a22caed815ba\firearms.dll
-14.9.2025 21:10:05.123 [VerboseDebug] [medievalexpansionpatch] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\medievalexpansionpatch-1.3.1.zip_1506d7eb5e05\medievalexpansion.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [medievalexpansionpatch] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\medievalexpansionpatch-1.3.1.zip_1506d7eb5e05\medievalexpansion.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [partyraid] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\PartyRaid.zip_9562f48a7286\PartyRaidSystem.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [partyraid] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\PartyRaid.zip_9562f48a7286\PartyRaidSystem.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [radialmenu] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\RadialMenu-v1.0.3.zip_3a1ac47287a0\RadialMenu.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [radialmenu] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\RadialMenu-v1.0.3.zip_3a1ac47287a0\RadialMenu.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [visorhelmets] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\visorhelmets_1.1.1.zip_34e9b0d16b1f\VisoredHelmets.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [visorhelmets] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\visorhelmets_1.1.1.zip_34e9b0d16b1f\VisoredHelmets.dll
-14.9.2025 21:10:05.124 [VerboseDebug] [thebasics] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\thebasics-v5.2.3.zip_1530de57a481\thebasics.dll
-14.9.2025 21:10:05.125 [VerboseDebug] [thebasics] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\thebasics-v5.2.3.zip_1530de57a481\thebasics.dll
-14.9.2025 21:10:05.125 [VerboseDebug] [staminaaddonco] Check for mod systems in mod 
-14.9.2025 21:10:05.125 [VerboseDebug] 27 assemblies loaded
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for ancientarmory
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for fagothic
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for fagreenwich
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for falandsknecht
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for fatemplar
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for kemonoskins
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for nightskydelights
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for overhaullib
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for sprintmomentum
-14.9.2025 21:10:05.125 [VerboseDebug] Instantiate mod systems for game
-14.9.2025 21:10:05.129 [VerboseDebug] Instantiate mod systems for vsimgui
-14.9.2025 21:10:05.129 [VerboseDebug] Instantiate mod systems for bullseyecontinued
-14.9.2025 21:10:05.129 [VerboseDebug] Instantiate mod systems for combatoverhaul
-14.9.2025 21:10:05.129 [VerboseDebug] Instantiate mod systems for kemono
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for krpgenchantment
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for maltiezcrossbows
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for maltiezfirearms
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for medievalexpansionpatch
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for partyraid
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for radialmenu
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for visorhelmets
-14.9.2025 21:10:05.130 [VerboseDebug] Instantiate mod systems for creative
-14.9.2025 21:10:05.131 [VerboseDebug] Instantiate mod systems for survival
-14.9.2025 21:10:05.147 [VerboseDebug] Instantiate mod systems for armory
-14.9.2025 21:10:05.147 [VerboseDebug] Instantiate mod systems for thebasics
-14.9.2025 21:10:05.147 [VerboseDebug] Instantiate mod systems for wkfa
-14.9.2025 21:10:05.297 [VerboseDebug] Searching file system (including mods) for asset files
-14.9.2025 21:10:05.385 [VerboseDebug] Finished building index of asset files
-14.9.2025 21:10:05.444 [VerboseDebug] Reloaded lang file with mod assets
-14.9.2025 21:10:05.502 [VerboseDebug] Started mods
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 0: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 1: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 2: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 3: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 4: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 5: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 6: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 7: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 8: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 9: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.512 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 10: Unmet IsValue condition (sandgravelsoil!=sandgravel)
-14.9.2025 21:10:05.522 [VerboseDebug] Patch file game:patches/keepinventory.json, patch 0: Unmet IsValue condition (keep!=drop)
-14.9.2025 21:10:05.540 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 0: Unmet IsValue condition (true!=False)
-14.9.2025 21:10:05.540 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 1: Unmet IsValue condition (true!=False)
-14.9.2025 21:10:05.540 [VerboseDebug] Patch file game:patches/unbucket.json, patch 0: Unmet IsValue condition (true!=False)
-14.9.2025 21:10:05.540 [VerboseDebug] Patch file game:patches/unbucket.json, patch 1: Unmet IsValue condition (true!=False)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.543 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.544 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.545 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 10: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.546 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-sounds.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.548 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-sounds.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.549 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 10: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 11: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 12: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 13: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.551 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 14: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 0: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 1: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 2: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 3: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 4: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 5: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 6: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 7: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 8: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 9: Unmet DependsOn condition (ancientarmory,indappledgroves)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 0: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 1: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 2: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 3: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 4: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 5: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 6: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 7: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 8: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 9: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 10: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 11: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 12: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 13: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 14: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 15: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 16: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 17: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 18: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 19: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 20: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 21: Unmet DependsOn condition (purposefulstorage)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/rtrullywoods/firewood.json, patch 0: Unmet DependsOn condition (rtrullywoods)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/rtrullywoods/firewood.json, patch 1: Unmet DependsOn condition (rtrullywoods)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/rtrullywoods/firewood.json, patch 2: Unmet DependsOn condition (rtrullywoods)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/axe.json, patch 0: Unmet DependsOn condition (stillnecessaries)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/blades.json, patch 0: Unmet DependsOn condition (stillnecessaries)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/club.json, patch 0: Unmet DependsOn condition (stillnecessaries)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/extraswords.json, patch 0: Unmet DependsOn condition (stillnecessaries)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/knife.json, patch 0: Unmet DependsOn condition (stillnecessaries)
-14.9.2025 21:10:05.601 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/spear.json, patch 0: Unmet DependsOn condition (stillnecessaries)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 0: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 1: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 2: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 3: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 4: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 5: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 6: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 7: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 8: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 9: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 10: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 11: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 12: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 13: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 14: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 15: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 16: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 17: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 18: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 19: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 20: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 21: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.602 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 22: Unmet DependsOn condition (ancientarmory,tailorsdelight)
-14.9.2025 21:10:05.833 [VerboseDebug] Patch 0 in fagothic:patches/usefultraders-fa-gothic-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
-14.9.2025 21:10:05.845 [VerboseDebug] Patch 0 in fagreenwich:patches/usefultraders-fa-greenwich-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
-14.9.2025 21:10:05.857 [VerboseDebug] Patch 0 in falandsknecht:patches/usefultraders-fa-landsknecht-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
-14.9.2025 21:10:05.870 [VerboseDebug] Patch 0 in fatemplar:patches/usefultraders-fa-templar-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 6: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 7: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 8: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 9: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 10: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 11: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 12: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 13: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 14: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 15: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 6: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 7: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 8: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 9: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 10: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 11: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 12: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 13: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.824 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 6: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 7: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 8: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 9: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 10: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 11: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 12: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 13: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 14: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 15: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 16: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 17: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 18: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 19: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 20: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 21: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 22: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 23: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 0: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 1: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 2: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 3: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 4: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.825 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 5: Unmet DependsOn condition (fantasycreatures)
-14.9.2025 21:10:06.926 [VerboseDebug] Patch file combatoverhaul:patches/entities/animals/sheep-bighorn.json, patch 5: Unmet DependsOn condition (improvedsheep)
-14.9.2025 21:10:06.927 [VerboseDebug] Patch file combatoverhaul:patches/entities/animals/sheep-bighorn.json, patch 10: Unmet DependsOn condition (improvedsheep)
-14.9.2025 21:10:11.949 [VerboseDebug] Patch file visorhelmets:patches/recipes/armor.json, patch 2: Unmet DependsOn condition (!combatoverhaul)
-14.9.2025 21:10:11.984 [VerboseDebug] Patchloader finished
-14.9.2025 21:10:12.014 [VerboseDebug] Starting to gather blocktypes, itemtypes and entities
-14.9.2025 21:10:12.091 [VerboseDebug] Starting parsing ItemTypes in 8 threads
-14.9.2025 21:10:12.418 [VerboseDebug] Gathered all types, starting to load items
-14.9.2025 21:10:13.574 [VerboseDebug] Parsed and loaded items
-14.9.2025 21:10:14.679 [VerboseDebug] Parsed and loaded blocks
-14.9.2025 21:10:14.689 [VerboseDebug] Parsed and loaded entities
-14.9.2025 21:10:14.691 [VerboseDebug] Loaded 12 entity tags from 'game' domain: state-swimming, state-feet-in-liquid, state-flying, state-on-ground, state-moving, state-alive, state-aiming, state-sprinting, state-sneaking, state-armed, state-armed-melee, state-armed-ranged
-14.9.2025 21:10:14.691 [VerboseDebug] Loaded 4 item tags from 'game' domain: weapon, weapon-melee, weapon-ranged, has-open-fire
-14.9.2025 21:10:14.691 [VerboseDebug] Loaded 1 block tags from 'game' domain: has-open-fire
-14.9.2025 21:10:14.692 [VerboseDebug] BlockID Remapper: Begin
-14.9.2025 21:10:14.714 [VerboseDebug] 17071 block IDs loaded from savegame.
-14.9.2025 21:10:14.715 [VerboseDebug] Max BlockID is 17070
-14.9.2025 21:10:14.717 [VerboseDebug] Found 0 blocks requiring remapping and 0 new blocks
-14.9.2025 21:10:14.717 [VerboseDebug] Remapped 0 new blockids
-14.9.2025 21:10:14 [Debug] Found 0 missing blocks
-14.9.2025 21:10:14 [Debug] Block IDs have been written to savegame. Saved max BlockID was 17070
-14.9.2025 21:10:14 [Debug] ItemID Remapper: Begin
-14.9.2025 21:10:14 [Debug] Item IDs loaded from savegame.
-14.9.2025 21:10:14 [Debug] Found 0 Item requiring remapping
-14.9.2025 21:10:14 [Debug] Remapped 0 new Itemids
-14.9.2025 21:10:14 [Debug] Found 0 missing Items
-14.9.2025 21:10:14 [Debug] Item IDs have been written to savegame
-14.9.2025 21:10:15.177 [VerboseDebug] Block simulation resolving collectibles
-14.9.2025 21:10:15.192 [VerboseDebug] Resolved blocks stacks
-14.9.2025 21:10:15.193 [VerboseDebug] Resolved items stacks
-14.9.2025 21:10:15.193 [VerboseDebug] Entering runphase AssetsFinalize
-14.9.2025 21:10:15.528 [VerboseDebug] Entering runphase LoadGamePre
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: Core
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: EntityPartitioning
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: ErrorReporter
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: EnchantingConfigLoader
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: GenTerra
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: GenSnowLayer
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: ModSystemControlPoints
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: Core
-14.9.2025 21:10:15.528 [VerboseDebug] Starting system: SurvivalCoreSystem
-14.9.2025 21:10:15.529 [VerboseDebug] Starting system: GenTerraPostProcess
-14.9.2025 21:10:15.529 [VerboseDebug] Starting system: ModCompatiblityUtil
-14.9.2025 21:10:15.529 [VerboseDebug] Starting system: ModJsonPatchLoader
-14.9.2025 21:10:15.529 [VerboseDebug] Starting system: CombatOverhaulSystem
-14.9.2025 21:10:15.530 [VerboseDebug] Starting system: CombatOverhaulAnimationsSystem
-14.9.2025 21:10:15.532 [VerboseDebug] Starting system: NightVisionSystem
-14.9.2025 21:10:15.532 [VerboseDebug] Starting system: SprintMomentumMod
-14.9.2025 21:10:15.553 [VerboseDebug] Starting system: FluffyCloudsModSystem
-14.9.2025 21:10:15.553 [VerboseDebug] Starting system: PathfindSystem
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: PathFindDebug
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: PathfindingAsync
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: JsonExport
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: ModBasicBlocksLoader
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: AiRuntimeConfig
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: ModSystemSyncHarvestableDropsToClient
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: ModSystemEmotes
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: LeafBlockDecay
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: POIRegistry
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: RoomRegistry
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: WeatherSystemCommands
-14.9.2025 21:10:15.554 [VerboseDebug] Starting system: WeatherSystemServer
-14.9.2025 21:10:15.568 [VerboseDebug] Starting system: WorldMapManager
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: BullseyeSystem
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: CombatOverhaulAdditionalSystem
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: KemonoMod
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: EnchantmentsLoader
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: KRPGEnchantmentSystem
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: CrossbowsModSystem
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: FirearmsModSystem
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: FeatureToggleSystem
-14.9.2025 21:10:15.569 [VerboseDebug] Starting system: MedievalExpansionMod
-14.9.2025 21:10:15.572 [VerboseDebug] Starting system: PartyRaidSystemMain
-14.9.2025 21:10:15.572 [VerboseDebug] Starting system: VisorActionsNetwork
-14.9.2025 21:10:15.572 [VerboseDebug] Starting system: WorldEdit
-14.9.2025 21:10:15.574 [VerboseDebug] Starting system: StoryLockableDoor
-14.9.2025 21:10:15.574 [VerboseDebug] Starting system: StoryGenFailedSystem
-14.9.2025 21:10:15.574 [VerboseDebug] Starting system: UpgradeTasks
-14.9.2025 21:10:15.575 [VerboseDebug] Starting system: ChiselBlockBulkSetMaterial
-14.9.2025 21:10:15.575 [VerboseDebug] Starting system: ModSystemDetailModeSync
-14.9.2025 21:10:15.575 [VerboseDebug] Starting system: NpcControl
-14.9.2025 21:10:15.575 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
-14.9.2025 21:10:15.575 [VerboseDebug] Starting system: GenFromHeightmap
-14.9.2025 21:10:15.575 [VerboseDebug] Starting system: GenMaps
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: GenRockStrataNew
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: GenHotSprings
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: GenCreatures
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ModSystemExplosionAffectedStability
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: MyceliumSystem
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ModsystemButterflySpawnCondsExtra
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ModSystemCatchCreature
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ModSystemGliding
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ModSystemSwoopDev
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: Timeswitch
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ClutterBookshelfUtil
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: ModSystemResoArchiveCommands
-14.9.2025 21:10:15.576 [VerboseDebug] Starting system: StoryStructuresSpawnConditions
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModSystemNPCHairStyling
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModSystemSkinnableAdditions
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModSystemVillagerDebug
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModSystemAuction
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModSystemBlockReinforcement
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: Core
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModSystemBoatingSoundAndRatlineStamina
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: CharacterSystem
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: VariablesModSystem
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ModsystemElevator
-14.9.2025 21:10:15.577 [VerboseDebug] Starting system: ActivityModSystem
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ActivityEditorSystem
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: FruitingSystem
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemCommandHandbook
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemTutorial
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemCorpseReturnTeleporter
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemNightVision
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: TobiasTeleporter
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModJournal
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: LiquidItemStackRenderer
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemStructureLocator
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModLootRandomizer
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemEntityOwnership
-14.9.2025 21:10:15.578 [VerboseDebug] Starting system: ModSystemRifts
-14.9.2025 21:10:15.579 [VerboseDebug] Starting system: ModSystemRiftWeather
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: ModSleeping
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: TeleporterManager
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: ModTemperature
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: SystemTemporalStability
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: TemporalStabilityEffects
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: ModSystemWearableStats
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: ModSystemEditableBook
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: MechanicalPowerMod
-14.9.2025 21:10:15.580 [VerboseDebug] Starting system: TpaSystem
-14.9.2025 21:10:15.596 [VerboseDebug] Starting system: SleepNotifierSystem
-14.9.2025 21:10:15.597 [VerboseDebug] Starting system: SaveNotificationsSystem
-14.9.2025 21:10:15.597 [VerboseDebug] Starting system: RepairModSystem
-14.9.2025 21:10:15.597 [VerboseDebug] Starting system: RPProximityChatSystem
-14.9.2025 21:10:15.599 [VerboseDebug] Starting system: PlayerStatSystem
-14.9.2025 21:10:15.600 [VerboseDebug] Starting system: GenDungeons
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: ModRegistryObjectTypeLoader
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: GenDeposits
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: GenStoryStructures
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: LoadColorMaps
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: GenCaves
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: GenStructures
-14.9.2025 21:10:15.630 [VerboseDebug] Starting system: WgenCommands
-14.9.2025 21:10:15.631 [VerboseDebug] Starting system: GenDevastationLayer
-14.9.2025 21:10:15.631 [VerboseDebug] Starting system: ClothManager
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenBlockLayersFlat
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenBlockLayers
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenPonds
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenStructuresPosPass
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenVegetationAndPatches
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: RecipeRegistrySystem
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenRivulets
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenLightCreative
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GenLightSurvival
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: GridRecipeLoader
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: KRPGCommandSystem
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: RecipeLoader
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: ModSystemFireFromLightning
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: ModSystemOreMap
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: ModSystemSnowballs
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: HumanoidOutfits
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: ModSystemDevastationEffects
-14.9.2025 21:10:15.632 [VerboseDebug] Starting system: DisableRecipeRegisteringSystem
-14.9.2025 21:10:15.640 [VerboseDebug] Entity shape loading starting ...
-14.9.2025 21:10:16.260 [VerboseDebug] Entity shape loading completed
-14.9.2025 21:10:16 [Debug] Loading leaf block decay system
-14.9.2025 21:10:16 [Debug] Finished loading leaf block decay system
-14.9.2025 21:10:16 [Debug] Block simulation loaded blocks
-14.9.2025 21:10:16.486 [VerboseDebug] Initialised GenRockStrata
-14.9.2025 21:10:16 [Debug] Block simulation loaded items
-14.9.2025 21:10:16.571 [VerboseDebug] Entering runphase GameReady
-14.9.2025 21:10:16.573 [VerboseDebug] Entering runphase WorldReady
-14.9.2025 21:10:16.577 [VerboseDebug] Starting to build server assets packet
-14.9.2025 21:10:16.578 [VerboseDebug] Init worldgen for GenMaps
-14.9.2025 21:10:16.587 [VerboseDebug] Init worldgen for GenCaves
-14.9.2025 21:10:16.587 [VerboseDebug] Init worldgen for GenBlockLayers
-14.9.2025 21:10:16.587 [VerboseDebug] Init worldgen for GenVegetationAndPatches
-14.9.2025 21:10:16.599 [VerboseDebug] Done all worldgens
-14.9.2025 21:10:16.601 [VerboseDebug] Starting area loading/generation: columns 49, total queue length 49
-14.9.2025 21:10:16.629 [VerboseDebug] Initialised GenDeposits
-14.9.2025 21:10:16.649 [VerboseDebug] Completed area loading/generation
-14.9.2025 21:10:16.659 [VerboseDebug] Done spawn chunk
-14.9.2025 21:10:16.659 [VerboseDebug] Entering runphase RunGame
-14.9.2025 21:10:17.267 [VerboseDebug] Finished building server assets packet
-14.9.2025 21:10:17.268 [VerboseDebug] Single player: sent server assets packet to client
-14.9.2025 21:10:25.249 [VerboseDebug] Received identification packet from Doos
-14.9.2025 21:10:25 [Debug] UDP: Client 1 did send UDP
-14.9.2025 21:10:25.650 [VerboseDebug] HandleRequestJoin: Begin. Player: Doos
-14.9.2025 21:10:25.650 [VerboseDebug] HandleRequestJoin: Before set name
-14.9.2025 21:10:25.651 [VerboseDebug] HandleRequestJoin: After Level initialize
-14.9.2025 21:10:25.665 [VerboseDebug] HandleRequestJoin: After broadcastplayerdata. hotbarslot: Vintagestory.API.Common.ItemSlotSurvival
-14.9.2025 21:10:25.665 [VerboseDebug] HandleRequestJoin: After LevelFinalize
-14.9.2025 21:10:27 [Debug] THEBASICS - Received ready message from Doos, sending config
-14.9.2025 21:10:27 [Debug] THEBASICS - Sent complete config to client Doos
-14.9.2025 21:10:35.580 [VerboseDebug] Entering runphase Shutdown
+14.9.2025 21:15:52.163 [VerboseDebug] Entering runphase Initialization
+14.9.2025 21:15:52.165 [VerboseDebug] Entering runphase Configuration
+14.9.2025 21:15:52.199 [VerboseDebug] Entering runphase LoadAssets
+14.9.2025 21:15:52.324 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod D:\games\Vintage Story\Mods\VSCreativeMod.dll
+14.9.2025 21:15:52.332 [VerboseDebug] [VSCreativeMod.dll] Selected assembly D:\games\Vintage Story\Mods\VSCreativeMod.dll
+14.9.2025 21:15:52.333 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod D:\games\Vintage Story\Mods\VSEssentials.dll
+14.9.2025 21:15:52.338 [VerboseDebug] [VSEssentials.dll] Selected assembly D:\games\Vintage Story\Mods\VSEssentials.dll
+14.9.2025 21:15:52.345 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod D:\games\Vintage Story\Mods\VSSurvivalMod.dll
+14.9.2025 21:15:52.361 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly D:\games\Vintage Story\Mods\VSSurvivalMod.dll
+14.9.2025 21:15:52.486 [VerboseDebug] [overhaullib] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\overhaullib_1.8.0.zip_5fa8910b32a4\Overhaullib.dll
+14.9.2025 21:15:52.491 [VerboseDebug] [overhaullib] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\overhaullib_1.8.0.zip_5fa8910b32a4\Overhaullib.dll
+14.9.2025 21:15:52.491 [VerboseDebug] [sprintmomentum] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\SprintMomentum_0.1.3.zip_f3bb5788a5bd\SprintMomemtum.dll
+14.9.2025 21:15:52.491 [VerboseDebug] [sprintmomentum] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\SprintMomentum_0.1.3.zip_f3bb5788a5bd\SprintMomemtum.dll
+14.9.2025 21:15:52.491 [VerboseDebug] [vsimgui] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImGui.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImGuiController_OpenTK.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImGuizmo.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImNodes.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\ImPlot.NET.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\VSImGui.dll, C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\VSImGui_DebugTools.dll
+14.9.2025 21:15:52.494 [VerboseDebug] [vsimgui] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\vsimgui_1.1.12.zip_dc1f2e48ec9b\VSImGui.dll
+14.9.2025 21:15:52.494 [VerboseDebug] [bullseyecontinued] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\bullseyecontinued_3.4.3.zip_4ef8b43e08df\Bullseye.dll
+14.9.2025 21:15:52.495 [VerboseDebug] [bullseyecontinued] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\bullseyecontinued_3.4.3.zip_4ef8b43e08df\Bullseye.dll
+14.9.2025 21:15:52.495 [VerboseDebug] [combatoverhaul] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\combatoverhaul_0.9.3.zip_9bbddc97535c\CombatOverhaul.dll
+14.9.2025 21:15:52.495 [VerboseDebug] [combatoverhaul] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\combatoverhaul_0.9.3.zip_9bbddc97535c\CombatOverhaul.dll
+14.9.2025 21:15:52.495 [VerboseDebug] [kemono] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\kemono_v0.1.7-COFix3.zip_97630e5699f9\kemono.dll
+14.9.2025 21:15:52.495 [VerboseDebug] [kemono] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\kemono_v0.1.7-COFix3.zip_97630e5699f9\kemono.dll
+14.9.2025 21:15:52.495 [VerboseDebug] [krpgenchantment] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\krpgenchantment_1.1.5.zip_dfa7d23c9cd6\krpgenchantment.dll
+14.9.2025 21:15:52.496 [VerboseDebug] [krpgenchantment] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\krpgenchantment_1.1.5.zip_dfa7d23c9cd6\krpgenchantment.dll
+14.9.2025 21:15:52.496 [VerboseDebug] [maltiezcrossbows] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezcrossbows_1.5.2.zip_dcc6bc5cedae\crossbows.dll
+14.9.2025 21:15:52.496 [VerboseDebug] [maltiezcrossbows] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezcrossbows_1.5.2.zip_dcc6bc5cedae\crossbows.dll
+14.9.2025 21:15:52.496 [VerboseDebug] [maltiezfirearms] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezfirearms_1.2.2.zip_a22caed815ba\firearms.dll
+14.9.2025 21:15:52.497 [VerboseDebug] [maltiezfirearms] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\maltiezfirearms_1.2.2.zip_a22caed815ba\firearms.dll
+14.9.2025 21:15:52.497 [VerboseDebug] [medievalexpansionpatch] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\medievalexpansionpatch-1.3.1.zip_1506d7eb5e05\medievalexpansion.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [medievalexpansionpatch] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\medievalexpansionpatch-1.3.1.zip_1506d7eb5e05\medievalexpansion.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [partyraid] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\PartyRaid.zip_9562f48a7286\PartyRaidSystem.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [partyraid] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\PartyRaid.zip_9562f48a7286\PartyRaidSystem.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [radialmenu] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\RadialMenu-v1.0.3.zip_3a1ac47287a0\RadialMenu.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [radialmenu] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\RadialMenu-v1.0.3.zip_3a1ac47287a0\RadialMenu.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [visorhelmets] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\visorhelmets_1.1.1.zip_34e9b0d16b1f\VisoredHelmets.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [visorhelmets] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\visorhelmets_1.1.1.zip_34e9b0d16b1f\VisoredHelmets.dll
+14.9.2025 21:15:52.498 [VerboseDebug] [thebasics] Check for mod systems in mod C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\thebasics-v5.2.3.zip_1530de57a481\thebasics.dll
+14.9.2025 21:15:52.499 [VerboseDebug] [thebasics] Loaded assembly C:\Users\Doos\AppData\Roaming\VintagestoryData\Cache\unpack\thebasics-v5.2.3.zip_1530de57a481\thebasics.dll
+14.9.2025 21:15:52.499 [VerboseDebug] [staminaaddonco] Check for mod systems in mod 
+14.9.2025 21:15:52.499 [VerboseDebug] 27 assemblies loaded
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for ancientarmory
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for fagothic
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for fagreenwich
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for falandsknecht
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for fatemplar
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for kemonoskins
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for nightskydelights
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for overhaullib
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for sprintmomentum
+14.9.2025 21:15:52.499 [VerboseDebug] Instantiate mod systems for game
+14.9.2025 21:15:52.503 [VerboseDebug] Instantiate mod systems for vsimgui
+14.9.2025 21:15:52.503 [VerboseDebug] Instantiate mod systems for bullseyecontinued
+14.9.2025 21:15:52.503 [VerboseDebug] Instantiate mod systems for combatoverhaul
+14.9.2025 21:15:52.503 [VerboseDebug] Instantiate mod systems for kemono
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for krpgenchantment
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for maltiezcrossbows
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for maltiezfirearms
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for medievalexpansionpatch
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for partyraid
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for radialmenu
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for visorhelmets
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for creative
+14.9.2025 21:15:52.504 [VerboseDebug] Instantiate mod systems for survival
+14.9.2025 21:15:52.520 [VerboseDebug] Instantiate mod systems for armory
+14.9.2025 21:15:52.520 [VerboseDebug] Instantiate mod systems for thebasics
+14.9.2025 21:15:52.521 [VerboseDebug] Instantiate mod systems for wkfa
+14.9.2025 21:15:52.666 [VerboseDebug] Searching file system (including mods) for asset files
+14.9.2025 21:15:52.756 [VerboseDebug] Finished building index of asset files
+14.9.2025 21:15:52.802 [VerboseDebug] Reloaded lang file with mod assets
+14.9.2025 21:15:52.865 [VerboseDebug] Started mods
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 0: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 1: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 2: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 3: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 4: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 5: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 6: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 7: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 8: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 9: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.875 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 10: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+14.9.2025 21:15:52.885 [VerboseDebug] Patch file game:patches/keepinventory.json, patch 0: Unmet IsValue condition (keep!=drop)
+14.9.2025 21:15:52.901 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 0: Unmet IsValue condition (true!=False)
+14.9.2025 21:15:52.901 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 1: Unmet IsValue condition (true!=False)
+14.9.2025 21:15:52.902 [VerboseDebug] Patch file game:patches/unbucket.json, patch 0: Unmet IsValue condition (true!=False)
+14.9.2025 21:15:52.902 [VerboseDebug] Patch file game:patches/unbucket.json, patch 1: Unmet IsValue condition (true!=False)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.904 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-axe.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.905 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-blades.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-club.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.906 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-extraswords.json, patch 10: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.907 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.907 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.907 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.907 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.907 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-great.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-long.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-sounds.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.908 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-sounds.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.909 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-patch-spear.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 0: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 1: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 2: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 3: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 4: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 5: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 6: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 7: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 8: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 9: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 10: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 11: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 12: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 13: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.911 [VerboseDebug] Patch file ancientarmory:patches/compatibility/combatoverhaul/co-spear.json, patch 14: Unmet DependsOn condition (ancientarmory,combatoverhaul,!armory)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 0: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 1: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 2: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 3: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 4: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 5: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 6: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 7: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 8: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/indappledgroves/disableancientarmoryrecipes_idg.json, patch 9: Unmet DependsOn condition (ancientarmory,indappledgroves)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 0: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 1: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 2: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 3: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 4: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 5: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 6: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 7: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 8: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 9: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 10: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 11: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 12: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 13: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 14: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 15: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 16: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 17: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 18: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 19: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 20: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/purposefulstorage/purposefulstorage.json, patch 21: Unmet DependsOn condition (purposefulstorage)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/rtrullywoods/firewood.json, patch 0: Unmet DependsOn condition (rtrullywoods)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/rtrullywoods/firewood.json, patch 1: Unmet DependsOn condition (rtrullywoods)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/rtrullywoods/firewood.json, patch 2: Unmet DependsOn condition (rtrullywoods)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/axe.json, patch 0: Unmet DependsOn condition (stillnecessaries)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/blades.json, patch 0: Unmet DependsOn condition (stillnecessaries)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/club.json, patch 0: Unmet DependsOn condition (stillnecessaries)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/extraswords.json, patch 0: Unmet DependsOn condition (stillnecessaries)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/knife.json, patch 0: Unmet DependsOn condition (stillnecessaries)
+14.9.2025 21:15:52.950 [VerboseDebug] Patch file ancientarmory:patches/compatibility/stillnecessaries/spear.json, patch 0: Unmet DependsOn condition (stillnecessaries)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 0: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 1: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 2: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 3: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 4: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 5: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 6: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 7: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 8: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 9: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 10: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 11: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 12: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 13: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 14: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 15: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 16: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 17: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 18: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 19: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 20: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 21: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:52.951 [VerboseDebug] Patch file ancientarmory:patches/compatibility/tailorsdelight/disableancientarmoryrecipes_tailors.json, patch 22: Unmet DependsOn condition (ancientarmory,tailorsdelight)
+14.9.2025 21:15:53.181 [VerboseDebug] Patch 0 in fagothic:patches/usefultraders-fa-gothic-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
+14.9.2025 21:15:53.196 [VerboseDebug] Patch 0 in fagreenwich:patches/usefultraders-fa-greenwich-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
+14.9.2025 21:15:53.208 [VerboseDebug] Patch 0 in falandsknecht:patches/usefultraders-fa-landsknecht-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
+14.9.2025 21:15:53.221 [VerboseDebug] Patch 0 in fatemplar:patches/usefultraders-fa-templar-treasurehunter.json: File usefultraders:patches/usefultrader-treasurehunter.json not found
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 6: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 7: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 8: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 9: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 10: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 11: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 12: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 13: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 14: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/cavegoblin.json, patch 15: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 6: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 7: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 8: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 9: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 10: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 11: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 12: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/dragon.json, patch 13: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ent-shepherd.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/lonehuntergoblin.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/ork.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.194 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 6: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 7: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 8: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 9: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 10: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 11: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 12: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 13: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 14: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 15: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 16: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 17: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 18: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 19: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 20: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 21: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 22: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/skeleton.json, patch 23: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/slime.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 0: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 1: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 2: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 3: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 4: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.195 [VerboseDebug] Patch file combatoverhaul:patches/compatibility/fantasycreatures/treant.json, patch 5: Unmet DependsOn condition (fantasycreatures)
+14.9.2025 21:15:54.306 [VerboseDebug] Patch file combatoverhaul:patches/entities/animals/sheep-bighorn.json, patch 5: Unmet DependsOn condition (improvedsheep)
+14.9.2025 21:15:54.307 [VerboseDebug] Patch file combatoverhaul:patches/entities/animals/sheep-bighorn.json, patch 10: Unmet DependsOn condition (improvedsheep)
+14.9.2025 21:15:59.249 [VerboseDebug] Patch file visorhelmets:patches/recipes/armor.json, patch 2: Unmet DependsOn condition (!combatoverhaul)
+14.9.2025 21:15:59.255 [VerboseDebug] Patchloader finished
+14.9.2025 21:15:59.306 [VerboseDebug] Starting to gather blocktypes, itemtypes and entities
+14.9.2025 21:15:59.391 [VerboseDebug] Starting parsing ItemTypes in 8 threads
+14.9.2025 21:15:59.749 [VerboseDebug] Gathered all types, starting to load items
+14.9.2025 21:16:00.894 [VerboseDebug] Parsed and loaded items
+14.9.2025 21:16:01.980 [VerboseDebug] Parsed and loaded blocks
+14.9.2025 21:16:01.991 [VerboseDebug] Parsed and loaded entities
+14.9.2025 21:16:01.992 [VerboseDebug] Loaded 12 entity tags from 'game' domain: state-swimming, state-feet-in-liquid, state-flying, state-on-ground, state-moving, state-alive, state-aiming, state-sprinting, state-sneaking, state-armed, state-armed-melee, state-armed-ranged
+14.9.2025 21:16:01.992 [VerboseDebug] Loaded 4 item tags from 'game' domain: weapon, weapon-melee, weapon-ranged, has-open-fire
+14.9.2025 21:16:01.992 [VerboseDebug] Loaded 1 block tags from 'game' domain: has-open-fire
+14.9.2025 21:16:01.993 [VerboseDebug] BlockID Remapper: Begin
+14.9.2025 21:16:02.025 [VerboseDebug] 17071 block IDs loaded from savegame.
+14.9.2025 21:16:02.026 [VerboseDebug] Max BlockID is 17070
+14.9.2025 21:16:02.028 [VerboseDebug] Found 0 blocks requiring remapping and 0 new blocks
+14.9.2025 21:16:02.028 [VerboseDebug] Remapped 0 new blockids
+14.9.2025 21:16:02 [Debug] Found 0 missing blocks
+14.9.2025 21:16:02 [Debug] Block IDs have been written to savegame. Saved max BlockID was 17070
+14.9.2025 21:16:02 [Debug] ItemID Remapper: Begin
+14.9.2025 21:16:02 [Debug] Item IDs loaded from savegame.
+14.9.2025 21:16:02 [Debug] Found 0 Item requiring remapping
+14.9.2025 21:16:02 [Debug] Remapped 0 new Itemids
+14.9.2025 21:16:02 [Debug] Found 0 missing Items
+14.9.2025 21:16:02 [Debug] Item IDs have been written to savegame
+14.9.2025 21:16:02.487 [VerboseDebug] Block simulation resolving collectibles
+14.9.2025 21:16:02.503 [VerboseDebug] Resolved blocks stacks
+14.9.2025 21:16:02.504 [VerboseDebug] Resolved items stacks
+14.9.2025 21:16:02.504 [VerboseDebug] Entering runphase AssetsFinalize
+14.9.2025 21:16:02.849 [VerboseDebug] Entering runphase LoadGamePre
+14.9.2025 21:16:02.849 [VerboseDebug] Starting system: Core
+14.9.2025 21:16:02.849 [VerboseDebug] Starting system: EntityPartitioning
+14.9.2025 21:16:02.849 [VerboseDebug] Starting system: ErrorReporter
+14.9.2025 21:16:02.849 [VerboseDebug] Starting system: EnchantingConfigLoader
+14.9.2025 21:16:02.849 [VerboseDebug] Starting system: GenTerra
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: GenSnowLayer
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: ModSystemControlPoints
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: Core
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: SurvivalCoreSystem
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: GenTerraPostProcess
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: ModCompatiblityUtil
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: ModJsonPatchLoader
+14.9.2025 21:16:02.850 [VerboseDebug] Starting system: CombatOverhaulSystem
+14.9.2025 21:16:02.851 [VerboseDebug] Starting system: CombatOverhaulAnimationsSystem
+14.9.2025 21:16:02.853 [VerboseDebug] Starting system: NightVisionSystem
+14.9.2025 21:16:02.853 [VerboseDebug] Starting system: SprintMomentumMod
+14.9.2025 21:16:02.875 [VerboseDebug] Starting system: FluffyCloudsModSystem
+14.9.2025 21:16:02.875 [VerboseDebug] Starting system: PathfindSystem
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: PathFindDebug
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: PathfindingAsync
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: JsonExport
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: ModBasicBlocksLoader
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: AiRuntimeConfig
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: ModSystemSyncHarvestableDropsToClient
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: ModSystemEmotes
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: LeafBlockDecay
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: POIRegistry
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: RoomRegistry
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: WeatherSystemCommands
+14.9.2025 21:16:02.876 [VerboseDebug] Starting system: WeatherSystemServer
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: WorldMapManager
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: BullseyeSystem
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: CombatOverhaulAdditionalSystem
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: KemonoMod
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: EnchantmentsLoader
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: KRPGEnchantmentSystem
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: CrossbowsModSystem
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: FirearmsModSystem
+14.9.2025 21:16:02.891 [VerboseDebug] Starting system: FeatureToggleSystem
+14.9.2025 21:16:02.892 [VerboseDebug] Starting system: MedievalExpansionMod
+14.9.2025 21:16:02.894 [VerboseDebug] Starting system: PartyRaidSystemMain
+14.9.2025 21:16:02.895 [VerboseDebug] Starting system: VisorActionsNetwork
+14.9.2025 21:16:02.895 [VerboseDebug] Starting system: WorldEdit
+14.9.2025 21:16:02.897 [VerboseDebug] Starting system: StoryLockableDoor
+14.9.2025 21:16:02.897 [VerboseDebug] Starting system: StoryGenFailedSystem
+14.9.2025 21:16:02.897 [VerboseDebug] Starting system: UpgradeTasks
+14.9.2025 21:16:02.897 [VerboseDebug] Starting system: ChiselBlockBulkSetMaterial
+14.9.2025 21:16:02.897 [VerboseDebug] Starting system: ModSystemDetailModeSync
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: NpcControl
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: GenFromHeightmap
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: GenMaps
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: GenRockStrataNew
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: GenHotSprings
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: GenCreatures
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: ModSystemExplosionAffectedStability
+14.9.2025 21:16:02.898 [VerboseDebug] Starting system: MyceliumSystem
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModsystemButterflySpawnCondsExtra
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemCatchCreature
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemGliding
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemSwoopDev
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: Timeswitch
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ClutterBookshelfUtil
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemResoArchiveCommands
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: StoryStructuresSpawnConditions
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemNPCHairStyling
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemSkinnableAdditions
+14.9.2025 21:16:02.899 [VerboseDebug] Starting system: ModSystemVillagerDebug
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: ModSystemAuction
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: ModSystemBlockReinforcement
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: Core
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: ModSystemBoatingSoundAndRatlineStamina
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: CharacterSystem
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: VariablesModSystem
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: ModsystemElevator
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: ActivityModSystem
+14.9.2025 21:16:02.900 [VerboseDebug] Starting system: ActivityEditorSystem
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: FruitingSystem
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemCommandHandbook
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemTutorial
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemCorpseReturnTeleporter
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemNightVision
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: TobiasTeleporter
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModJournal
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: LiquidItemStackRenderer
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemStructureLocator
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModLootRandomizer
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemEntityOwnership
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemRifts
+14.9.2025 21:16:02.901 [VerboseDebug] Starting system: ModSystemRiftWeather
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: ModSleeping
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: TeleporterManager
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: ModTemperature
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: SystemTemporalStability
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: TemporalStabilityEffects
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: ModSystemWearableStats
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: ModSystemEditableBook
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: MechanicalPowerMod
+14.9.2025 21:16:02.903 [VerboseDebug] Starting system: TpaSystem
+14.9.2025 21:16:02.919 [VerboseDebug] Starting system: SleepNotifierSystem
+14.9.2025 21:16:02.919 [VerboseDebug] Starting system: SaveNotificationsSystem
+14.9.2025 21:16:02.920 [VerboseDebug] Starting system: RepairModSystem
+14.9.2025 21:16:02.920 [VerboseDebug] Starting system: RPProximityChatSystem
+14.9.2025 21:16:02.922 [VerboseDebug] Starting system: PlayerStatSystem
+14.9.2025 21:16:02.923 [VerboseDebug] Starting system: GenDungeons
+14.9.2025 21:16:02.952 [VerboseDebug] Starting system: ModRegistryObjectTypeLoader
+14.9.2025 21:16:02.952 [VerboseDebug] Starting system: GenDeposits
+14.9.2025 21:16:02.952 [VerboseDebug] Starting system: GenStoryStructures
+14.9.2025 21:16:02.953 [VerboseDebug] Starting system: LoadColorMaps
+14.9.2025 21:16:02.953 [VerboseDebug] Starting system: GenCaves
+14.9.2025 21:16:02.953 [VerboseDebug] Starting system: GenStructures
+14.9.2025 21:16:02.953 [VerboseDebug] Starting system: WgenCommands
+14.9.2025 21:16:02.954 [VerboseDebug] Starting system: GenDevastationLayer
+14.9.2025 21:16:02.954 [VerboseDebug] Starting system: ClothManager
+14.9.2025 21:16:02.954 [VerboseDebug] Starting system: GenBlockLayersFlat
+14.9.2025 21:16:02.954 [VerboseDebug] Starting system: GenBlockLayers
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GenPonds
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GenStructuresPosPass
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GenVegetationAndPatches
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: RecipeRegistrySystem
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GenRivulets
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GenLightCreative
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GenLightSurvival
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: GridRecipeLoader
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: KRPGCommandSystem
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: RecipeLoader
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: ModSystemFireFromLightning
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: ModSystemOreMap
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: ModSystemSnowballs
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: HumanoidOutfits
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: ModSystemDevastationEffects
+14.9.2025 21:16:02.955 [VerboseDebug] Starting system: DisableRecipeRegisteringSystem
+14.9.2025 21:16:02.963 [VerboseDebug] Entity shape loading starting ...
+14.9.2025 21:16:03.588 [VerboseDebug] Entity shape loading completed
+14.9.2025 21:16:03 [Debug] Loading leaf block decay system
+14.9.2025 21:16:03 [Debug] Finished loading leaf block decay system
+14.9.2025 21:16:03 [Debug] Block simulation loaded blocks
+14.9.2025 21:16:03.953 [VerboseDebug] Initialised GenRockStrata
+14.9.2025 21:16:04 [Debug] Block simulation loaded items
+14.9.2025 21:16:04.039 [VerboseDebug] Entering runphase GameReady
+14.9.2025 21:16:04.041 [VerboseDebug] Entering runphase WorldReady
+14.9.2025 21:16:04.045 [VerboseDebug] Starting to build server assets packet
+14.9.2025 21:16:04.045 [VerboseDebug] Init worldgen for GenMaps
+14.9.2025 21:16:04.053 [VerboseDebug] Init worldgen for GenCaves
+14.9.2025 21:16:04.054 [VerboseDebug] Init worldgen for GenBlockLayers
+14.9.2025 21:16:04.054 [VerboseDebug] Init worldgen for GenVegetationAndPatches
+14.9.2025 21:16:04.081 [VerboseDebug] Done all worldgens
+14.9.2025 21:16:04.083 [VerboseDebug] Starting area loading/generation: columns 49, total queue length 49
+14.9.2025 21:16:04.098 [VerboseDebug] Initialised GenDeposits
+14.9.2025 21:16:04.118 [VerboseDebug] Completed area loading/generation
+14.9.2025 21:16:04.159 [VerboseDebug] Done spawn chunk
+14.9.2025 21:16:04.159 [VerboseDebug] Entering runphase RunGame
+14.9.2025 21:16:04.724 [VerboseDebug] Finished building server assets packet
+14.9.2025 21:16:04.725 [VerboseDebug] Single player: sent server assets packet to client
+14.9.2025 21:16:12.491 [VerboseDebug] Received identification packet from Doos
+14.9.2025 21:16:12 [Debug] UDP: Client 1 did send UDP
+14.9.2025 21:16:12.885 [VerboseDebug] HandleRequestJoin: Begin. Player: Doos
+14.9.2025 21:16:12.886 [VerboseDebug] HandleRequestJoin: Before set name
+14.9.2025 21:16:12.886 [VerboseDebug] HandleRequestJoin: After Level initialize
+14.9.2025 21:16:12.901 [VerboseDebug] HandleRequestJoin: After broadcastplayerdata. hotbarslot: Vintagestory.API.Common.ItemSlotSurvival
+14.9.2025 21:16:12.901 [VerboseDebug] HandleRequestJoin: After LevelFinalize
+14.9.2025 21:16:14 [Debug] THEBASICS - Received ready message from Doos, sending config
+14.9.2025 21:16:14 [Debug] THEBASICS - Sent complete config to client Doos
+14.9.2025 21:19:47.893 [VerboseDebug] Entering runphase Shutdown
