@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "staminaaddonco",
+  "name": "Stamina Addon (CO)",
+  "description": "Добавляет систему стамины для Combat Overhaul и Armory",
+  "authors": [ "Doos" ],
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.21.0",
+    "combatoverhaul": ">=0.9.3",
+    "armory": ">=1.2.0"
+  }
+}
