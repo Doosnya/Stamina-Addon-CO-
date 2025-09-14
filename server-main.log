@@ -1,650 +1,650 @@
-14.9.2025 21:22:31 [Notification] Server logger started.
-14.9.2025 21:22:31 [Notification] Game Version: v1.21.0 (Stable) by OͤverF1Xͯ  
-14.9.2025 21:22:31 [Event] Оно начинается...
-14.9.2025 21:22:31 [Event] Launching server...
-14.9.2025 21:22:31 [Event] Оно чувствует...
-14.9.2025 21:22:31 [Event] Server v1.21.0, network v1.21.7, api v1.21.0
-14.9.2025 21:22:31 [Notification] Entering runphase Initialization
-14.9.2025 21:22:31 [Event] Loading configuration...
-14.9.2025 21:22:31 [Notification] Entering runphase Configuration
-14.9.2025 21:22:31 [Notification] Loading savegame
-14.9.2025 21:22:31 [Notification] Loaded existing save game data. Playstyle: creativebuilding, Playstyle Lang code: creativebuilding, WorldType: creativebuilding
-14.9.2025 21:22:31 [Notification] Savegame C:\Users\Doos\AppData\Roaming\VintagestoryData\Saves\vintage freestyle lands.vcdbs loaded
-14.9.2025 21:22:31 [Notification] World size = 1024000 256 1024000
-14.9.2025 21:22:31 [Notification] Start discovering assets
-14.9.2025 21:22:31 [Notification] Found 1 base assets in category blocktypes
-14.9.2025 21:22:31 [Notification] Found 0 base assets in category itemtypes
-14.9.2025 21:22:31 [Notification] Found 31 base assets in category lang
-14.9.2025 21:22:31 [Notification] Found 0 base assets in category patches
-14.9.2025 21:22:31 [Notification] Found 24 base assets in category config
-14.9.2025 21:22:31 [Notification] Found 0 base assets in category worldproperties
-14.9.2025 21:22:31 [Notification] Found 49 base assets in category sounds
-14.9.2025 21:22:31 [Notification] Found 230 base assets in category shapes
-14.9.2025 21:22:31 [Notification] Found 176 base assets in category textures
-14.9.2025 21:22:31 [Notification] Found 0 base assets in category recipes
-14.9.2025 21:22:31 [Notification] Found 0 base assets in category worldgen
-14.9.2025 21:22:31 [Notification] Found 3 base assets in category entities
-14.9.2025 21:22:31 [Notification] Found 514 base assets in total
-14.9.2025 21:22:31 [Event] Building assets...
-14.9.2025 21:22:31 [Notification] Entering runphase LoadAssets
-14.9.2025 21:22:31 [Notification] Will search the following paths for mods:
-14.9.2025 21:22:31 [Notification]     D:\games\Vintage Story\Mods
-14.9.2025 21:22:31 [Notification]     C:\Users\Doos\AppData\Roaming\VintagestoryData\Mods
-14.9.2025 21:22:31 [Error] [ConsoleApp] Missing modinfo.json
-14.9.2025 21:22:31 [Warning] [staminaaddonco] Dependency 'combatoverhaul': Failed parsing version string '>=0.9.3' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-0.9.3)
-14.9.2025 21:22:31 [Warning] [staminaaddonco] Dependency 'armory': Failed parsing version string '>=1.2.0' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-1.2.0)
-14.9.2025 21:22:31 [Error] [Stamina Addon (CO).zip] Missing modinfo.json
-14.9.2025 21:22:31 [Notification] Found 69 mods (42 disabled)
-14.9.2025 21:22:31 [Notification] Mods, sorted by dependency: ancientarmory, fagothic, fagreenwich, falandsknecht, fatemplar, kemonoskins, nightskydelights, overhaullib, sprintmomentum, game, vsimgui, bullseyecontinued, combatoverhaul, kemono, krpgenchantment, maltiezcrossbows, maltiezfirearms, medievalexpansionpatch, partyraid, radialmenu, visorhelmets, creative, survival, armory, thebasics, wkfa, staminaaddonco
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'HudStaminaCO.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'ModSystemStaminaCO.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'StaminaPacket.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'protobuf-net.Core.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'protobuf-net.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'System.Buffers.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'System.Collections.Immutable.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'System.Memory.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'System.Numerics.Vectors.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'System.Runtime.CompilerServices.Unsafe.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'VintagestoryAPI.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'VintagestoryLib.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'VintagestoryServer.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File '.NETFramework,Version=v4.7.2.AssemblyAttributes.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'StaminaAddonCO.AssemblyInfo.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:31 [Error] [staminaaddonco] An exception was thrown when trying to load assembly:
-14.9.2025 21:22:31 [Error] [staminaaddonco] Exception:  declared as code mod, but there are no .dll files that contain at least one ModSystem or has a ModInfo attribute
+14.9.2025 21:26:07 [Notification] Server logger started.
+14.9.2025 21:26:07 [Notification] Game Version: v1.21.0 (Stable) by OͤverF1Xͯ  
+14.9.2025 21:26:07 [Event] Оно начинается...
+14.9.2025 21:26:07 [Event] Launching server...
+14.9.2025 21:26:07 [Event] Оно чувствует...
+14.9.2025 21:26:07 [Event] Server v1.21.0, network v1.21.7, api v1.21.0
+14.9.2025 21:26:07 [Notification] Entering runphase Initialization
+14.9.2025 21:26:07 [Event] Loading configuration...
+14.9.2025 21:26:07 [Notification] Entering runphase Configuration
+14.9.2025 21:26:07 [Notification] Loading savegame
+14.9.2025 21:26:07 [Notification] Loaded existing save game data. Playstyle: creativebuilding, Playstyle Lang code: creativebuilding, WorldType: creativebuilding
+14.9.2025 21:26:07 [Notification] Savegame C:\Users\Doos\AppData\Roaming\VintagestoryData\Saves\vintage freestyle lands.vcdbs loaded
+14.9.2025 21:26:07 [Notification] World size = 1024000 256 1024000
+14.9.2025 21:26:07 [Notification] Start discovering assets
+14.9.2025 21:26:07 [Notification] Found 1 base assets in category blocktypes
+14.9.2025 21:26:07 [Notification] Found 0 base assets in category itemtypes
+14.9.2025 21:26:07 [Notification] Found 31 base assets in category lang
+14.9.2025 21:26:07 [Notification] Found 0 base assets in category patches
+14.9.2025 21:26:07 [Notification] Found 24 base assets in category config
+14.9.2025 21:26:07 [Notification] Found 0 base assets in category worldproperties
+14.9.2025 21:26:07 [Notification] Found 49 base assets in category sounds
+14.9.2025 21:26:07 [Notification] Found 230 base assets in category shapes
+14.9.2025 21:26:07 [Notification] Found 176 base assets in category textures
+14.9.2025 21:26:07 [Notification] Found 0 base assets in category recipes
+14.9.2025 21:26:07 [Notification] Found 0 base assets in category worldgen
+14.9.2025 21:26:07 [Notification] Found 3 base assets in category entities
+14.9.2025 21:26:07 [Notification] Found 514 base assets in total
+14.9.2025 21:26:07 [Event] Building assets...
+14.9.2025 21:26:07 [Notification] Entering runphase LoadAssets
+14.9.2025 21:26:07 [Notification] Will search the following paths for mods:
+14.9.2025 21:26:07 [Notification]     D:\games\Vintage Story\Mods
+14.9.2025 21:26:07 [Notification]     C:\Users\Doos\AppData\Roaming\VintagestoryData\Mods
+14.9.2025 21:26:07 [Error] [ConsoleApp] Missing modinfo.json
+14.9.2025 21:26:08 [Warning] [staminaaddonco] Dependency 'combatoverhaul': Failed parsing version string '>=0.9.3' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-0.9.3)
+14.9.2025 21:26:08 [Warning] [staminaaddonco] Dependency 'armory': Failed parsing version string '>=1.2.0' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-1.2.0)
+14.9.2025 21:26:08 [Error] [staminaaddonco.zip] Missing modinfo.json
+14.9.2025 21:26:08 [Notification] Found 69 mods (42 disabled)
+14.9.2025 21:26:08 [Notification] Mods, sorted by dependency: ancientarmory, fagothic, fagreenwich, falandsknecht, fatemplar, kemonoskins, nightskydelights, overhaullib, sprintmomentum, game, vsimgui, bullseyecontinued, combatoverhaul, kemono, krpgenchantment, maltiezcrossbows, maltiezfirearms, medievalexpansionpatch, partyraid, radialmenu, visorhelmets, creative, survival, armory, thebasics, wkfa, staminaaddonco
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'HudStaminaCO.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'ModSystemStaminaCO.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'StaminaPacket.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'protobuf-net.Core.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'protobuf-net.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'System.Buffers.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'System.Collections.Immutable.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'System.Memory.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'System.Numerics.Vectors.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'System.Runtime.CompilerServices.Unsafe.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'VintagestoryAPI.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'VintagestoryLib.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'VintagestoryServer.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File '.NETFramework,Version=v4.7.2.AssemblyAttributes.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'StaminaAddonCO.AssemblyInfo.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:08 [Error] [staminaaddonco] An exception was thrown when trying to load assembly:
+14.9.2025 21:26:08 [Error] [staminaaddonco] Exception:  declared as code mod, but there are no .dll files that contain at least one ModSystem or has a ModInfo attribute
    at Vintagestory.Common.ModContainer.LoadAssembly(ModCompilationContext compilationContext, ModAssemblyLoader loader) in VintagestoryLib\Common\API\ModContainer.cs:line 549
-14.9.2025 21:22:31 [Notification] Instantiated 158 mod systems from 25 enabled mods
-14.9.2025 21:22:32 [Notification] External Origins in load order: modorigin@D:\games\Vintage Story\assets\creative\, modorigin@D:\games\Vintage Story\assets\survival\, mod@AncientArmory1.1.2.zip, mod@Forgotten Armory_Gothic v1.1.5.zip, mod@Forgotten Armory_Greenwich v1.2.4.zip, mod@Forgotten Armory_Landsknecht v1.1.3.zip, mod@Forgotten Armory_Templar v1.2.5.zip, mod@overhaullib_1.8.0.zip, mod@vsimgui_1.1.12.zip, mod@bullseyecontinued_3.4.3.zip, mod@combatoverhaul_0.9.3.zip, mod@kemono_v0.1.7-COFix3.zip, mod@krpgenchantment_1.1.5.zip, mod@maltiezcrossbows_1.5.2.zip, mod@maltiezfirearms_1.2.2.zip, mod@medievalexpansionpatch-1.3.1.zip, mod@visorhelmets_1.1.1.zip, mod@armory_1.2.0.zip, mod@wfks_v.0.1.2(CombatFix).zip, themepack@Night-Sky Delights 1.21.0.zip
-14.9.2025 21:22:32 [Notification] Found 555 external assets in category blocktypes
-14.9.2025 21:22:32 [Notification] Found 408 external assets in category itemtypes
-14.9.2025 21:22:32 [Notification] Found 66 external assets in category lang
-14.9.2025 21:22:32 [Notification] Found 127 external assets in category patches
-14.9.2025 21:22:32 [Notification] Found 188 external assets in category config
-14.9.2025 21:22:32 [Notification] Found 25 external assets in category worldproperties
-14.9.2025 21:22:32 [Notification] Found 678 external assets in category sounds
-14.9.2025 21:22:32 [Notification] Found 6537 external assets in category shapes
-14.9.2025 21:22:32 [Notification] Found 8196 external assets in category textures
-14.9.2025 21:22:32 [Notification] Found 562 external assets in category recipes
-14.9.2025 21:22:32 [Notification] Found 584 external assets in category worldgen
-14.9.2025 21:22:32 [Notification] Found 95 external assets in category entities
-14.9.2025 21:22:32 [Notification] Found 20 external assets in category compatibility
-14.9.2025 21:22:32 [Notification] Found 0 external assets in category animations
-14.9.2025 21:22:32 [Notification] Found 3 external assets in category models
-14.9.2025 21:22:32 [Notification] Found 22 external assets in category modelpresets
-14.9.2025 21:22:32 [Notification] Found 1 external assets in category race
-14.9.2025 21:22:32 [Notification] Reloaded lang file with mod assets
-14.9.2025 21:22:32 [Notification] [KRPGEnchantment] KRPG Enchantment loaded.
-14.9.2025 21:22:32 [Event] Medieval Expansion Mod Patch v1.3.1 loading
-14.9.2025 21:22:32 [Notification] [KRPGEnchantment] KRPGEnchantConfig file found. Loaded successfully.
-14.9.2025 21:22:32 [Notification] Compatibility lib: 0 assets added, 0 assets replaced.
-14.9.2025 21:22:38 [Notification] JsonPatch Loader: 782 patches total, successfully applied 778 patches, missing files on 4 patches, unmet conditions on 247 patches, no errors
-14.9.2025 21:22:38 [Notification] [kemono] Loaded model: horse0
-14.9.2025 21:22:38 [Notification] [kemono] Loaded model: kemono0
-14.9.2025 21:22:38 [Notification] [kemono] Loaded addon: kemono0
-14.9.2025 21:22:38 [Notification] [kemono] Loaded race: unknown
-14.9.2025 21:22:38 [Notification] [KRPGEnchantment] Registered 20 Enchantment classes to the EnchantmentRegistry.
-14.9.2025 21:22:39 [Event] Оно помнит...
-14.9.2025 21:22:39 [Error] Failed registering item game:spearhead-iron:
-14.9.2025 21:22:39 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:08 [Notification] Instantiated 158 mod systems from 25 enabled mods
+14.9.2025 21:26:08 [Notification] External Origins in load order: modorigin@D:\games\Vintage Story\assets\creative\, modorigin@D:\games\Vintage Story\assets\survival\, mod@AncientArmory1.1.2.zip, mod@Forgotten Armory_Gothic v1.1.5.zip, mod@Forgotten Armory_Greenwich v1.2.4.zip, mod@Forgotten Armory_Landsknecht v1.1.3.zip, mod@Forgotten Armory_Templar v1.2.5.zip, mod@overhaullib_1.8.0.zip, mod@vsimgui_1.1.12.zip, mod@bullseyecontinued_3.4.3.zip, mod@combatoverhaul_0.9.3.zip, mod@kemono_v0.1.7-COFix3.zip, mod@krpgenchantment_1.1.5.zip, mod@maltiezcrossbows_1.5.2.zip, mod@maltiezfirearms_1.2.2.zip, mod@medievalexpansionpatch-1.3.1.zip, mod@visorhelmets_1.1.1.zip, mod@armory_1.2.0.zip, mod@wfks_v.0.1.2(CombatFix).zip, themepack@Night-Sky Delights 1.21.0.zip
+14.9.2025 21:26:08 [Notification] Found 555 external assets in category blocktypes
+14.9.2025 21:26:08 [Notification] Found 408 external assets in category itemtypes
+14.9.2025 21:26:08 [Notification] Found 66 external assets in category lang
+14.9.2025 21:26:08 [Notification] Found 127 external assets in category patches
+14.9.2025 21:26:08 [Notification] Found 188 external assets in category config
+14.9.2025 21:26:08 [Notification] Found 25 external assets in category worldproperties
+14.9.2025 21:26:08 [Notification] Found 678 external assets in category sounds
+14.9.2025 21:26:08 [Notification] Found 6537 external assets in category shapes
+14.9.2025 21:26:08 [Notification] Found 8196 external assets in category textures
+14.9.2025 21:26:08 [Notification] Found 562 external assets in category recipes
+14.9.2025 21:26:08 [Notification] Found 584 external assets in category worldgen
+14.9.2025 21:26:08 [Notification] Found 95 external assets in category entities
+14.9.2025 21:26:08 [Notification] Found 20 external assets in category compatibility
+14.9.2025 21:26:08 [Notification] Found 0 external assets in category animations
+14.9.2025 21:26:08 [Notification] Found 3 external assets in category models
+14.9.2025 21:26:08 [Notification] Found 22 external assets in category modelpresets
+14.9.2025 21:26:08 [Notification] Found 1 external assets in category race
+14.9.2025 21:26:08 [Notification] Reloaded lang file with mod assets
+14.9.2025 21:26:08 [Notification] [KRPGEnchantment] KRPG Enchantment loaded.
+14.9.2025 21:26:08 [Event] Medieval Expansion Mod Patch v1.3.1 loading
+14.9.2025 21:26:08 [Notification] [KRPGEnchantment] KRPGEnchantConfig file found. Loaded successfully.
+14.9.2025 21:26:08 [Notification] Compatibility lib: 0 assets added, 0 assets replaced.
+14.9.2025 21:26:15 [Notification] JsonPatch Loader: 782 patches total, successfully applied 778 patches, missing files on 4 patches, unmet conditions on 247 patches, no errors
+14.9.2025 21:26:15 [Notification] [kemono] Loaded model: horse0
+14.9.2025 21:26:15 [Notification] [kemono] Loaded model: kemono0
+14.9.2025 21:26:15 [Notification] [kemono] Loaded addon: kemono0
+14.9.2025 21:26:15 [Notification] [kemono] Loaded race: unknown
+14.9.2025 21:26:15 [Notification] [KRPGEnchantment] Registered 20 Enchantment classes to the EnchantmentRegistry.
+14.9.2025 21:26:15 [Event] Оно помнит...
+14.9.2025 21:26:16 [Error] Failed registering item game:spearhead-iron:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:39 [Error] Failed registering item game:spearhead-meteoriciron:
-14.9.2025 21:22:39 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:spearhead-meteoriciron:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:39 [Error] Failed registering item game:spearhead-steel:
-14.9.2025 21:22:39 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:spearhead-steel:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-crude:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-crude:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-flint:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-flint', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-flint:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-flint', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-obsidian:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-obsidian', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-obsidian:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-obsidian', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-copper:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-copper', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-copper:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-copper', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-tinbronze:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-tinbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-tinbronze:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-tinbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-bismuthbronze:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bismuthbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-bismuthbronze:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bismuthbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-blackbronze:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-blackbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-blackbronze:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-blackbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-gold:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-gold', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-gold:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-gold', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-silver:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-silver', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-silver:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-silver', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-iron:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-iron:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-meteoriciron:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-meteoriciron:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-steel:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-steel:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-erel:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-erel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-erel:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-erel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:arrow-bone:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bone', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:arrow-bone:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bone', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:bow-crude:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:bow-crude:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:bow-simple:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-simple', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:bow-simple:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-simple', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:bow-long:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-long', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:bow-long:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-long', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:bow-recurve:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-recurve', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:bow-recurve:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-recurve', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:sling:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:sling', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:sling:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:sling', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:spear-generic-iron:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:spear-generic-iron:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:spear-generic-meteoriciron:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:spear-generic-meteoriciron:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Error] Failed registering item game:spear-generic-steel:
-14.9.2025 21:22:40 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:16 [Error] Failed registering item game:spear-generic-steel:
+14.9.2025 21:26:16 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:40 [Notification] Loaded 5354 unique items
-14.9.2025 21:22:40 [Event] Всё, что предшествовало...
-14.9.2025 21:22:41 [Notification] Loaded 17069 unique blocks
-14.9.2025 21:22:41 [Notification] Loaded 923 unique entities
-14.9.2025 21:22:41 [Notification] Loaded 12 entity tags, 4 item tags and 1 block tags from 'game' domain
-14.9.2025 21:22:41 [Notification] BlockLoader: Entities, Blocks and Items loaded
-14.9.2025 21:22:41 [Event] Remapping blocks and items...
-14.9.2025 21:22:41 [Event] 14 cooking recipes loaded
-14.9.2025 21:22:41 [Event] Вкус и запах...
-14.9.2025 21:22:41 [Event] 1515 crafting recipes loaded from 385 files
-14.9.2025 21:22:41 [Event] Великие изобретения...
-14.9.2025 21:22:41 [Event] 9 metal alloys loaded
-14.9.2025 21:22:41 [Event] Проблески в почве...
-14.9.2025 21:22:41 [Event] 571 smithing recipes loaded
-14.9.2025 21:22:41 [Event] Горящие искры...
-14.9.2025 21:22:41 [Event] 98 clay forming recipes loaded
-14.9.2025 21:22:41 [Event] Отлитые формы...
-14.9.2025 21:22:41 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe bullseyecontinued:recipes/knapping/arrowhead.jsongame:stone-obsidian
-14.9.2025 21:22:41 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe combatoverhaul:recipes/knapping/arrowhead.jsongame:stone-obsidian
-14.9.2025 21:22:41 [Event] 69 knapping recipes loaded (2 could not be resolved)
-14.9.2025 21:22:41 [Event] Простые инструменты...
-14.9.2025 21:22:41 [Event] 220 barrel recipes loaded
-14.9.2025 21:22:41 [Notification] Entering runphase AssetsFinalize
-14.9.2025 21:22:41 [Event] Enchanting...
-14.9.2025 21:22:41 [Notification] [KRPGEnchantment] KRPG Enchantment behaviors loaded.
-14.9.2025 21:22:42 [Event] Server assets loaded, parsed, registered and finalized
-14.9.2025 21:22:42 [Event] Initialising systems...
-14.9.2025 21:22:42 [Notification] Entering runphase LoadGamePre
-14.9.2025 21:22:42 [Notification] Reloaded 19 weather patterns, 5 wind patterns and 5 weather events
-14.9.2025 21:22:42 [Notification] Started 134 systems on Server:
-14.9.2025 21:22:42 [Notification]     Mod 'VSEssentials.dll' (game):
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.Core
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.EntityPartitioning
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ErrorReporter
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
-14.9.2025 21:22:42 [Notification]         FluffyClouds.FluffyCloudsModSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.Essentials.PathfindSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.Essentials.PathFindDebug
-14.9.2025 21:22:42 [Notification]         Vintagestory.Essentials.PathfindingAsync
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.JsonExport
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.ModBasicBlocksLoader
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.AiRuntimeConfig
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemSyncHarvestableDropsToClient
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemEmotes
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.LeafBlockDecay
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.POIRegistry
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.RoomRegistry
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.WeatherSystemServer
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.WorldMapManager
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.LoadColorMaps
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ClothManager
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GridRecipeLoader
-14.9.2025 21:22:42 [Notification]     Mod 'krpgenchantment_1.1.5.zip' (krpgenchantment):
-14.9.2025 21:22:42 [Notification]         KRPGLib.Enchantment.EnchantingConfigLoader
-14.9.2025 21:22:42 [Notification]         KRPGLib.Enchantment.EnchantmentsLoader
-14.9.2025 21:22:42 [Notification]         KRPGLib.Enchantment.KRPGEnchantmentSystem
-14.9.2025 21:22:42 [Notification]         KRPGLib.Enchantment.KRPGCommandSystem
-14.9.2025 21:22:42 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenTerra
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenSnowLayer
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenTerraPostProcess
-14.9.2025 21:22:42 [Notification]         Vintagestory.Systems.StoryLockableDoor
-14.9.2025 21:22:42 [Notification]         Vintagestory.Client.NoObf.StoryGenFailedSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.UpgradeTasks
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.ChiselBlockBulkSetMaterial
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.NpcControl
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenMaps
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenRockStrataNew
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenHotSprings
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenCreatures
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemExplosionAffectedStability
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.MyceliumSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModsystemButterflySpawnCondsExtra
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemGliding
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemSwoopDev
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.Timeswitch
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ClutterBookshelfUtil
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemResoArchiveCommands
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.StoryStructuresSpawnConditions
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemNPCHairStyling
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemSkinnableAdditions
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemVillagerDebug
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemAuction
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.Core
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemBoatingSoundAndRatlineStamina
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.CharacterSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.VariablesModSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModsystemElevator
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ActivityModSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ActivityEditorSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.FruitingSystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemTutorial
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemCorpseReturnTeleporter
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemNightVision
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.TobiasTeleporter
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModJournal
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModLootRandomizer
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemEntityOwnership
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemRifts
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSleeping
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.TeleporterManager
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModTemperature
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.SystemTemporalStability
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenDungeons
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenDeposits
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.GenStoryStructures
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenCaves
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenStructures
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.WgenCommands
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenDevastationLayer
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenBlockLayers
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenPonds
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenStructuresPosPass
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenVegetationAndPatches
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenRivulets
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenLightSurvival
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.RecipeLoader
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemFireFromLightning
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemOreMap
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemSnowballs
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.HumanoidOutfits
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.ModSystemDevastationEffects
-14.9.2025 21:22:42 [Notification]         Vintagestory.GameContent.DisableRecipeRegisteringSystem
-14.9.2025 21:22:42 [Notification]     Mod 'VSCreativeMod.dll' (creative):
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.Core
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenBlockLayersFlat
-14.9.2025 21:22:42 [Notification]         Vintagestory.ServerMods.GenLightCreative
-14.9.2025 21:22:42 [Notification]     Mod 'overhaullib_1.8.0.zip' (overhaullib):
-14.9.2025 21:22:42 [Notification]         CombatOverhaul.CombatOverhaulSystem
-14.9.2025 21:22:42 [Notification]         CombatOverhaul.CombatOverhaulAnimationsSystem
-14.9.2025 21:22:42 [Notification]         CombatOverhaul.NightVisionSystem
-14.9.2025 21:22:42 [Notification]     Mod 'SprintMomentum_0.1.3.zip' (sprintmomentum):
-14.9.2025 21:22:42 [Notification]         SprintMomentumMod
-14.9.2025 21:22:42 [Notification]     Mod 'bullseyecontinued_3.4.3.zip' (bullseyecontinued):
-14.9.2025 21:22:42 [Notification]         Bullseye.BullseyeSystem
-14.9.2025 21:22:42 [Notification]     Mod 'combatoverhaul_0.9.3.zip' (combatoverhaul):
-14.9.2025 21:22:42 [Notification]         CombatOverhaul.CombatOverhaulAdditionalSystem
-14.9.2025 21:22:42 [Notification]     Mod 'kemono_v0.1.7-COFix3.zip' (kemono):
-14.9.2025 21:22:42 [Notification]         kemono.KemonoMod
-14.9.2025 21:22:42 [Notification]     Mod 'maltiezcrossbows_1.5.2.zip' (maltiezcrossbows):
-14.9.2025 21:22:42 [Notification]         Crossbows.CrossbowsModSystem
-14.9.2025 21:22:42 [Notification]     Mod 'maltiezfirearms_1.2.2.zip' (maltiezfirearms):
-14.9.2025 21:22:42 [Notification]         Firearms.FirearmsModSystem
-14.9.2025 21:22:42 [Notification]     Mod 'medievalexpansionpatch-1.3.1.zip' (medievalexpansionpatch):
-14.9.2025 21:22:42 [Notification]         medievalexpansion.src.busineslogic.FeatureToggleSystem
-14.9.2025 21:22:42 [Notification]         gates.src.MedievalExpansionMod
-14.9.2025 21:22:42 [Notification]     Mod 'PartyRaid.zip' (partyraid):
-14.9.2025 21:22:42 [Notification]         PartyRaidSystem.PartyRaidSystemMain
-14.9.2025 21:22:42 [Notification]     Mod 'visorhelmets_1.1.1.zip' (visorhelmets):
-14.9.2025 21:22:42 [Notification]         VisoredHelmets.VisorActionsNetwork
-14.9.2025 21:22:42 [Notification]     Mod 'thebasics-v5.2.3.zip' (thebasics):
-14.9.2025 21:22:42 [Notification]         thebasics.ModSystems.TPA.TpaSystem
-14.9.2025 21:22:42 [Notification]         thebasics.ModSystems.SleepNotifier.SleepNotifierSystem
-14.9.2025 21:22:42 [Notification]         thebasics.ModSystems.SaveNotifications.SaveNotificationsSystem
-14.9.2025 21:22:42 [Notification]         thebasics.ModSystems.Repair.RepairModSystem
-14.9.2025 21:22:42 [Notification]         thebasics.ModSystems.ProximityChat.RPProximityChatSystem
-14.9.2025 21:22:42 [Notification]         thebasics.ModSystems.PlayerStats.PlayerStatSystem
-14.9.2025 21:22:42 [Event] 44 traits loaded from 2 files
-14.9.2025 21:22:42 [Event] 6 classes loaded from 1 files
-14.9.2025 21:22:43 [Notification] Server map set
-14.9.2025 21:22:43 [Event] Неповрежденный мир...
-14.9.2025 21:22:43 [Notification] Entering runphase GameReady
-14.9.2025 21:22:43 [Notification] Entering runphase WorldReady
-14.9.2025 21:22:43 [Event] Центр раскрывается...
-14.9.2025 21:22:43 [Event] Starting world generators...
-14.9.2025 21:22:43 [Notification] Reloaded 35 tree generators
-14.9.2025 21:22:43 [Event] Loading 7x7x8 spawn chunks...
-14.9.2025 21:22:43 [Event] 0% (49 in queue)
-14.9.2025 21:22:43 [Event] Резные горы...
-14.9.2025 21:22:43 [Event] Begin game ticking...
-14.9.2025 21:22:43 [Event] ... взывает к тебе
-14.9.2025 21:22:43 [Notification] Entering runphase RunGame
-14.9.2025 21:22:43 [Notification] Successfully loaded 0 waypoints
-14.9.2025 21:22:43 [Notification] Starting server threads
-14.9.2025 21:22:43 [Event] Сервер для одиночной игры now running!
-14.9.2025 21:22:43 [Event] Вернуться вновь.
-14.9.2025 21:22:43 [Notification] Please be aware that as of 1.20, servers default configurations have changed - servers no longer register themselves to the public servers list and are invite-only (whitelisted) out of the box. If you desire so, you can enable server advertising with '/serverconfig advertise on' and disable the whitelist mode with '/serverconfig whitelistmode off'
-14.9.2025 21:22:43 [Notification] All clients disconnected, pausing game calendar.
-14.9.2025 21:22:43 [Notification] Sending server identification with remap False.  Server control privilege is True
-14.9.2025 21:22:51 [Notification] A Client attempts connecting via Dummy connection on 127.0.0.1:0, assigning client id 1
-14.9.2025 21:22:51 [Notification] UDP: Client 1 connected via: 0.0.0.0:0
-14.9.2025 21:22:51 [Notification] Client 1 uid fcd05a03-934a-11ee-b27a-0242ac110003 attempting identification. Name: Doos
-14.9.2025 21:22:51 [Notification] Upped server view distance to: 256, because player is in singleplayer
-14.9.2025 21:22:51 [Notification] Placing Doos at 511953,9100341797 3,00006103515625 511950,3125
-14.9.2025 21:22:51 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoUpper, but no such element found. Will not be visible.
-14.9.2025 21:22:51 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoLower, but no such element found. Will not be visible.
-14.9.2025 21:22:51 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperR, but no such element found. Will not be visible.
-14.9.2025 21:22:51 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperL, but no such element found. Will not be visible.
-14.9.2025 21:22:51 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerR, but no such element found. Will not be visible.
-14.9.2025 21:22:51 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerL, but no such element found. Will not be visible.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:51 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:53 [Event] Doos 127.0.0.1:0 joins.
-14.9.2025 21:22:53 [Notification] A client reconnected, resuming game calendar.
-14.9.2025 21:22:54 [Error] [ConsoleApp] Missing modinfo.json
-14.9.2025 21:22:54 [Warning] [staminaaddonco] Dependency 'combatoverhaul': Failed parsing version string '>=0.9.3' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-0.9.3)
-14.9.2025 21:22:54 [Warning] [staminaaddonco] Dependency 'armory': Failed parsing version string '>=1.2.0' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-1.2.0)
-14.9.2025 21:22:54 [Error] [Stamina Addon (CO).zip] Missing modinfo.json
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'HudStaminaCO.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'ModSystemStaminaCO.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'StaminaPacket.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'protobuf-net.Core.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'protobuf-net.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'System.Buffers.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'System.Collections.Immutable.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'System.Memory.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'System.Numerics.Vectors.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'System.Runtime.CompilerServices.Unsafe.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'VintagestoryAPI.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'VintagestoryLib.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'VintagestoryServer.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File '.NETFramework,Version=v4.7.2.AssemblyAttributes.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'StaminaAddonCO.AssemblyInfo.cs' is not in the 'src/' subfolder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
-14.9.2025 21:22:54 [Error] [staminaaddonco] An exception was thrown when trying to load assembly:
-14.9.2025 21:22:54 [Error] [staminaaddonco] Exception:  declared as code mod, but there are no .dll files that contain at least one ModSystem or has a ModInfo attribute
+14.9.2025 21:26:16 [Notification] Loaded 5354 unique items
+14.9.2025 21:26:16 [Event] Всё, что предшествовало...
+14.9.2025 21:26:17 [Notification] Loaded 17069 unique blocks
+14.9.2025 21:26:17 [Notification] Loaded 923 unique entities
+14.9.2025 21:26:17 [Notification] Loaded 12 entity tags, 4 item tags and 1 block tags from 'game' domain
+14.9.2025 21:26:17 [Notification] BlockLoader: Entities, Blocks and Items loaded
+14.9.2025 21:26:17 [Event] Remapping blocks and items...
+14.9.2025 21:26:17 [Event] 14 cooking recipes loaded
+14.9.2025 21:26:17 [Event] Вкус и запах...
+14.9.2025 21:26:18 [Event] 1515 crafting recipes loaded from 385 files
+14.9.2025 21:26:18 [Event] Великие изобретения...
+14.9.2025 21:26:18 [Event] 9 metal alloys loaded
+14.9.2025 21:26:18 [Event] Проблески в почве...
+14.9.2025 21:26:18 [Event] 571 smithing recipes loaded
+14.9.2025 21:26:18 [Event] Горящие искры...
+14.9.2025 21:26:18 [Event] 98 clay forming recipes loaded
+14.9.2025 21:26:18 [Event] Отлитые формы...
+14.9.2025 21:26:18 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe bullseyecontinued:recipes/knapping/arrowhead.jsongame:stone-obsidian
+14.9.2025 21:26:18 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe combatoverhaul:recipes/knapping/arrowhead.jsongame:stone-obsidian
+14.9.2025 21:26:18 [Event] 69 knapping recipes loaded (2 could not be resolved)
+14.9.2025 21:26:18 [Event] Простые инструменты...
+14.9.2025 21:26:18 [Event] 220 barrel recipes loaded
+14.9.2025 21:26:18 [Notification] Entering runphase AssetsFinalize
+14.9.2025 21:26:18 [Event] Enchanting...
+14.9.2025 21:26:18 [Notification] [KRPGEnchantment] KRPG Enchantment behaviors loaded.
+14.9.2025 21:26:18 [Event] Server assets loaded, parsed, registered and finalized
+14.9.2025 21:26:18 [Event] Initialising systems...
+14.9.2025 21:26:18 [Notification] Entering runphase LoadGamePre
+14.9.2025 21:26:18 [Notification] Reloaded 19 weather patterns, 5 wind patterns and 5 weather events
+14.9.2025 21:26:18 [Notification] Started 134 systems on Server:
+14.9.2025 21:26:18 [Notification]     Mod 'VSEssentials.dll' (game):
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.Core
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.EntityPartitioning
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ErrorReporter
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
+14.9.2025 21:26:18 [Notification]         FluffyClouds.FluffyCloudsModSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.Essentials.PathfindSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.Essentials.PathFindDebug
+14.9.2025 21:26:18 [Notification]         Vintagestory.Essentials.PathfindingAsync
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.JsonExport
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.ModBasicBlocksLoader
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.AiRuntimeConfig
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemSyncHarvestableDropsToClient
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemEmotes
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.LeafBlockDecay
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.POIRegistry
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.RoomRegistry
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.WeatherSystemServer
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.WorldMapManager
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.LoadColorMaps
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ClothManager
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GridRecipeLoader
+14.9.2025 21:26:18 [Notification]     Mod 'krpgenchantment_1.1.5.zip' (krpgenchantment):
+14.9.2025 21:26:18 [Notification]         KRPGLib.Enchantment.EnchantingConfigLoader
+14.9.2025 21:26:18 [Notification]         KRPGLib.Enchantment.EnchantmentsLoader
+14.9.2025 21:26:18 [Notification]         KRPGLib.Enchantment.KRPGEnchantmentSystem
+14.9.2025 21:26:18 [Notification]         KRPGLib.Enchantment.KRPGCommandSystem
+14.9.2025 21:26:18 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenTerra
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenSnowLayer
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenTerraPostProcess
+14.9.2025 21:26:18 [Notification]         Vintagestory.Systems.StoryLockableDoor
+14.9.2025 21:26:18 [Notification]         Vintagestory.Client.NoObf.StoryGenFailedSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.UpgradeTasks
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.ChiselBlockBulkSetMaterial
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.NpcControl
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenMaps
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenRockStrataNew
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenHotSprings
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenCreatures
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemExplosionAffectedStability
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.MyceliumSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModsystemButterflySpawnCondsExtra
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemGliding
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemSwoopDev
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.Timeswitch
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ClutterBookshelfUtil
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemResoArchiveCommands
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.StoryStructuresSpawnConditions
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemNPCHairStyling
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemSkinnableAdditions
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemVillagerDebug
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemAuction
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.Core
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemBoatingSoundAndRatlineStamina
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.CharacterSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.VariablesModSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModsystemElevator
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ActivityModSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ActivityEditorSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.FruitingSystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemTutorial
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemCorpseReturnTeleporter
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemNightVision
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.TobiasTeleporter
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModJournal
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModLootRandomizer
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemEntityOwnership
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemRifts
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSleeping
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.TeleporterManager
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModTemperature
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.SystemTemporalStability
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenDungeons
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenDeposits
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.GenStoryStructures
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenCaves
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenStructures
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.WgenCommands
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenDevastationLayer
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenBlockLayers
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenPonds
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenStructuresPosPass
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenVegetationAndPatches
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenRivulets
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenLightSurvival
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.RecipeLoader
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemFireFromLightning
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemOreMap
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemSnowballs
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.HumanoidOutfits
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.ModSystemDevastationEffects
+14.9.2025 21:26:18 [Notification]         Vintagestory.GameContent.DisableRecipeRegisteringSystem
+14.9.2025 21:26:18 [Notification]     Mod 'VSCreativeMod.dll' (creative):
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.Core
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenBlockLayersFlat
+14.9.2025 21:26:18 [Notification]         Vintagestory.ServerMods.GenLightCreative
+14.9.2025 21:26:18 [Notification]     Mod 'overhaullib_1.8.0.zip' (overhaullib):
+14.9.2025 21:26:18 [Notification]         CombatOverhaul.CombatOverhaulSystem
+14.9.2025 21:26:18 [Notification]         CombatOverhaul.CombatOverhaulAnimationsSystem
+14.9.2025 21:26:18 [Notification]         CombatOverhaul.NightVisionSystem
+14.9.2025 21:26:18 [Notification]     Mod 'SprintMomentum_0.1.3.zip' (sprintmomentum):
+14.9.2025 21:26:18 [Notification]         SprintMomentumMod
+14.9.2025 21:26:18 [Notification]     Mod 'bullseyecontinued_3.4.3.zip' (bullseyecontinued):
+14.9.2025 21:26:18 [Notification]         Bullseye.BullseyeSystem
+14.9.2025 21:26:18 [Notification]     Mod 'combatoverhaul_0.9.3.zip' (combatoverhaul):
+14.9.2025 21:26:18 [Notification]         CombatOverhaul.CombatOverhaulAdditionalSystem
+14.9.2025 21:26:18 [Notification]     Mod 'kemono_v0.1.7-COFix3.zip' (kemono):
+14.9.2025 21:26:18 [Notification]         kemono.KemonoMod
+14.9.2025 21:26:18 [Notification]     Mod 'maltiezcrossbows_1.5.2.zip' (maltiezcrossbows):
+14.9.2025 21:26:18 [Notification]         Crossbows.CrossbowsModSystem
+14.9.2025 21:26:18 [Notification]     Mod 'maltiezfirearms_1.2.2.zip' (maltiezfirearms):
+14.9.2025 21:26:18 [Notification]         Firearms.FirearmsModSystem
+14.9.2025 21:26:18 [Notification]     Mod 'medievalexpansionpatch-1.3.1.zip' (medievalexpansionpatch):
+14.9.2025 21:26:18 [Notification]         medievalexpansion.src.busineslogic.FeatureToggleSystem
+14.9.2025 21:26:18 [Notification]         gates.src.MedievalExpansionMod
+14.9.2025 21:26:18 [Notification]     Mod 'PartyRaid.zip' (partyraid):
+14.9.2025 21:26:18 [Notification]         PartyRaidSystem.PartyRaidSystemMain
+14.9.2025 21:26:18 [Notification]     Mod 'visorhelmets_1.1.1.zip' (visorhelmets):
+14.9.2025 21:26:18 [Notification]         VisoredHelmets.VisorActionsNetwork
+14.9.2025 21:26:18 [Notification]     Mod 'thebasics-v5.2.3.zip' (thebasics):
+14.9.2025 21:26:18 [Notification]         thebasics.ModSystems.TPA.TpaSystem
+14.9.2025 21:26:18 [Notification]         thebasics.ModSystems.SleepNotifier.SleepNotifierSystem
+14.9.2025 21:26:18 [Notification]         thebasics.ModSystems.SaveNotifications.SaveNotificationsSystem
+14.9.2025 21:26:18 [Notification]         thebasics.ModSystems.Repair.RepairModSystem
+14.9.2025 21:26:18 [Notification]         thebasics.ModSystems.ProximityChat.RPProximityChatSystem
+14.9.2025 21:26:18 [Notification]         thebasics.ModSystems.PlayerStats.PlayerStatSystem
+14.9.2025 21:26:18 [Event] 44 traits loaded from 2 files
+14.9.2025 21:26:18 [Event] 6 classes loaded from 1 files
+14.9.2025 21:26:19 [Notification] Server map set
+14.9.2025 21:26:19 [Event] Неповрежденный мир...
+14.9.2025 21:26:19 [Notification] Entering runphase GameReady
+14.9.2025 21:26:19 [Notification] Entering runphase WorldReady
+14.9.2025 21:26:19 [Event] Центр раскрывается...
+14.9.2025 21:26:19 [Event] Starting world generators...
+14.9.2025 21:26:19 [Notification] Reloaded 35 tree generators
+14.9.2025 21:26:19 [Event] Loading 7x7x8 spawn chunks...
+14.9.2025 21:26:19 [Event] 0% (49 in queue)
+14.9.2025 21:26:19 [Event] Резные горы...
+14.9.2025 21:26:19 [Event] Begin game ticking...
+14.9.2025 21:26:19 [Event] ... взывает к тебе
+14.9.2025 21:26:19 [Notification] Entering runphase RunGame
+14.9.2025 21:26:19 [Notification] Successfully loaded 0 waypoints
+14.9.2025 21:26:19 [Notification] Starting server threads
+14.9.2025 21:26:19 [Event] Сервер для одиночной игры now running!
+14.9.2025 21:26:19 [Event] Вернуться вновь.
+14.9.2025 21:26:19 [Notification] Please be aware that as of 1.20, servers default configurations have changed - servers no longer register themselves to the public servers list and are invite-only (whitelisted) out of the box. If you desire so, you can enable server advertising with '/serverconfig advertise on' and disable the whitelist mode with '/serverconfig whitelistmode off'
+14.9.2025 21:26:19 [Notification] All clients disconnected, pausing game calendar.
+14.9.2025 21:26:20 [Notification] Sending server identification with remap False.  Server control privilege is True
+14.9.2025 21:26:28 [Notification] A Client attempts connecting via Dummy connection on 127.0.0.1:0, assigning client id 1
+14.9.2025 21:26:28 [Notification] UDP: Client 1 connected via: 0.0.0.0:0
+14.9.2025 21:26:28 [Notification] Client 1 uid fcd05a03-934a-11ee-b27a-0242ac110003 attempting identification. Name: Doos
+14.9.2025 21:26:28 [Notification] Upped server view distance to: 256, because player is in singleplayer
+14.9.2025 21:26:28 [Notification] Placing Doos at 511953,9100341797 3,00006103515625 511950,3125
+14.9.2025 21:26:28 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoUpper, but no such element found. Will not be visible.
+14.9.2025 21:26:28 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoLower, but no such element found. Will not be visible.
+14.9.2025 21:26:28 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperR, but no such element found. Will not be visible.
+14.9.2025 21:26:28 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperL, but no such element found. Will not be visible.
+14.9.2025 21:26:28 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerR, but no such element found. Will not be visible.
+14.9.2025 21:26:28 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerL, but no such element found. Will not be visible.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:28 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Event] Doos 127.0.0.1:0 joins.
+14.9.2025 21:26:30 [Notification] A client reconnected, resuming game calendar.
+14.9.2025 21:26:30 [Error] [ConsoleApp] Missing modinfo.json
+14.9.2025 21:26:30 [Warning] [staminaaddonco] Dependency 'combatoverhaul': Failed parsing version string '>=0.9.3' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-0.9.3)
+14.9.2025 21:26:30 [Warning] [staminaaddonco] Dependency 'armory': Failed parsing version string '>=1.2.0' at index 0: Expected MAJOR version number, found '>' (best guess: 0.0.0-1.2.0)
+14.9.2025 21:26:30 [Error] [staminaaddonco.zip] Missing modinfo.json
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'HudStaminaCO.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'ModSystemStaminaCO.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'StaminaPacket.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'protobuf-net.Core.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'protobuf-net.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'System.Buffers.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'System.Collections.Immutable.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'System.Memory.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'System.Numerics.Vectors.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'System.Runtime.CompilerServices.Unsafe.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'VintagestoryAPI.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'VintagestoryLib.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'VintagestoryServer.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File '.NETFramework,Version=v4.7.2.AssemblyAttributes.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'StaminaAddonCO.AssemblyInfo.cs' is not in the 'src/' subfolder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] File 'StaminaAddonCO.dll' is not in the mod's root folder. Won't load this mod. If you need to ship unmanaged dlls, put them in the native/ folder.
+14.9.2025 21:26:30 [Error] [staminaaddonco] An exception was thrown when trying to load assembly:
+14.9.2025 21:26:30 [Error] [staminaaddonco] Exception:  declared as code mod, but there are no .dll files that contain at least one ModSystem or has a ModInfo attribute
    at Vintagestory.Common.ModContainer.LoadAssembly(ModCompilationContext compilationContext, ModAssemblyLoader loader) in VintagestoryLib\Common\API\ModContainer.cs:line 549
-14.9.2025 21:22:54 [Error] Failed registering item game:spearhead-iron:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:spearhead-iron:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:spearhead-meteoriciron:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:spearhead-meteoriciron:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:spearhead-steel:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:spearhead-steel:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spearhead-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-crude:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-crude:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-flint:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-flint', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-flint:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-flint', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-obsidian:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-obsidian', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-obsidian:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-obsidian', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-copper:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-copper', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-copper:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-copper', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-tinbronze:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-tinbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-tinbronze:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-tinbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-bismuthbronze:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bismuthbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-bismuthbronze:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bismuthbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-blackbronze:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-blackbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-blackbronze:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-blackbronze', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-gold:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-gold', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-gold:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-gold', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-silver:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-silver', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-silver:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-silver', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-iron:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-iron:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-meteoriciron:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-meteoriciron:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-steel:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-steel:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-erel:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-erel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-erel:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-erel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:arrow-bone:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bone', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:arrow-bone:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:arrow-bone', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:bow-crude:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:bow-crude:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-crude', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:bow-simple:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-simple', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:bow-simple:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-simple', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:bow-long:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-long', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:bow-long:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-long', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:bow-recurve:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-recurve', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:bow-recurve:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:bow-recurve', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:sling:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:sling', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:sling:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:sling', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:spear-generic-iron:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:spear-generic-iron:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-iron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:spear-generic-meteoriciron:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:spear-generic-meteoriciron:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-meteoriciron', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Error] Failed registering item game:spear-generic-steel:
-14.9.2025 21:22:54 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
+14.9.2025 21:26:30 [Error] Failed registering item game:spear-generic-steel:
+14.9.2025 21:26:30 [Error] Exception: Попытка зарегистрировать предмет с кодом 'game:spear-generic-steel', но предмет с таким кодом уже существует. Необходимо использовать уникальный код
    at Vintagestory.Server.ServerMain.RegisterItem(Item item) in VintagestoryLib\Server\ServerMain.cs:line 1899
    at Vintagestory.Server.ServerCoreAPI.RegisterItem(Item item) in VintagestoryLib\Server\API\ServerCoreAPI.cs:line 130
    at Vintagestory.ServerMods.NoObf.ModRegistryObjectTypeLoader.<LoadItems>b__14_0(List`1 variants) in VSEssentials\Loading\RegistryObjectTypeLoader.cs:line 253
-14.9.2025 21:22:54 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe bullseyecontinued:recipes/knapping/arrowhead.jsongame:stone-obsidian
-14.9.2025 21:22:54 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe combatoverhaul:recipes/knapping/arrowhead.jsongame:stone-obsidian
-14.9.2025 21:22:54 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoUpper, but no such element found. Will not be visible.
-14.9.2025 21:22:54 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoLower, but no such element found. Will not be visible.
-14.9.2025 21:22:54 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperR, but no such element found. Will not be visible.
-14.9.2025 21:22:54 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperL, but no such element found. Will not be visible.
-14.9.2025 21:22:54 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerR, but no such element found. Will not be visible.
-14.9.2025 21:22:54 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerL, but no such element found. Will not be visible.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:22:54 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
-14.9.2025 21:23:03 [Notification] Server ticking has been suspended
-14.9.2025 21:23:04 [Notification] Client 1 disconnected: Server shutting down - Exit request by client
-14.9.2025 21:23:04 [Notification] Last player disconnected, compacting large object heap...
-14.9.2025 21:23:04 [Notification] UDP: client disconnected Doos
-14.9.2025 21:23:04 [Event] Игрок Doos исключен. Причина: Server shutting down - Exit request by client
-14.9.2025 21:23:04 [Notification] Server stop requested, begin shutdown sequence. Stop reason: Exit request by client
-14.9.2025 21:23:05 [Notification] Entering runphase Shutdown
-14.9.2025 21:23:05 [Event] Mods and systems notified, now saving everything...
-14.9.2025 21:23:05 [Event] Оно замирает.
-14.9.2025 21:23:05 [Event] Один последний взгляд...
-14.9.2025 21:23:05 [Event] Saved player world data...
-14.9.2025 21:23:05 [Event] Saved map regions...
-14.9.2025 21:23:05 [Event] Затем всё стихает...
-14.9.2025 21:23:05 [Event] Saved map chunks...
-14.9.2025 21:23:05 [Event] Воды убывают...
-14.9.2025 21:23:05 [Event] Saved loaded chunks...
-14.9.2025 21:23:05 [Event] Горы исчезают...
-14.9.2025 21:23:05 [Event] Поселяется тьма.
-14.9.2025 21:23:05 [Event] Saved generating chunks...
-14.9.2025 21:23:05 [Event] Saved savegamedata...2
-14.9.2025 21:23:05 [Event] World saved! Saved 1 chunks, 0 mapchunks, 16 mapregions.
-14.9.2025 21:23:05 [Event] Оно вздыхает...
-14.9.2025 21:23:05 [Event] Shutting down 9 server threads... 
-14.9.2025 21:23:05 [Event] Killed console thread
-14.9.2025 21:23:05 [Event] Снова одиночество...
-14.9.2025 21:23:05 [Event] All threads gracefully shut down
-14.9.2025 21:23:05 [Event] Время отдохнуть.
-14.9.2025 21:23:05 [Event] Doing last tick...
-14.9.2025 21:23:05 [Event] Stopped the server!
+14.9.2025 21:26:30 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe bullseyecontinued:recipes/knapping/arrowhead.jsongame:stone-obsidian
+14.9.2025 21:26:30 [Warning] Failed resolving a blocks itemdrop or smeltedstack with code game:arrowhead-obsidian in knapping recipe combatoverhaul:recipes/knapping/arrowhead.jsongame:stone-obsidian
+14.9.2025 21:26:30 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoUpper, but no such element found. Will not be visible.
+14.9.2025 21:26:30 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_TorsoLower, but no such element found. Will not be visible.
+14.9.2025 21:26:30 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperR, but no such element found. Will not be visible.
+14.9.2025 21:26:30 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmUpperL, but no such element found. Will not be visible.
+14.9.2025 21:26:30 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerR, but no such element found. Will not be visible.
+14.9.2025 21:26:30 [Warning] Skin part shape kemono:shapes/entity/kemono/main/body-base.json defined in entity config game:player requires step parent element with name b_ArmLowerL, but no such element found. Will not be visible.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape kemono:entity/kemono/main/kemono0 has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:26:30 [Error] Shape game:entity/humanoid/seraph-faceless has a key frame element for which the referencing shape element root cannot be found.
+14.9.2025 21:27:03 [Notification] Server ticking has been suspended
+14.9.2025 21:27:05 [Notification] Client 1 disconnected: Server shutting down - Exit request by client
+14.9.2025 21:27:05 [Notification] Last player disconnected, compacting large object heap...
+14.9.2025 21:27:06 [Notification] UDP: client disconnected Doos
+14.9.2025 21:27:06 [Event] Игрок Doos исключен. Причина: Server shutting down - Exit request by client
+14.9.2025 21:27:06 [Notification] Server stop requested, begin shutdown sequence. Stop reason: Exit request by client
+14.9.2025 21:27:06 [Notification] Entering runphase Shutdown
+14.9.2025 21:27:06 [Event] Mods and systems notified, now saving everything...
+14.9.2025 21:27:06 [Event] Оно замирает.
+14.9.2025 21:27:06 [Event] Один последний взгляд...
+14.9.2025 21:27:06 [Event] Saved player world data...
+14.9.2025 21:27:06 [Event] Saved map regions...
+14.9.2025 21:27:06 [Event] Затем всё стихает...
+14.9.2025 21:27:06 [Event] Saved map chunks...
+14.9.2025 21:27:06 [Event] Воды убывают...
+14.9.2025 21:27:06 [Event] Saved loaded chunks...
+14.9.2025 21:27:06 [Event] Горы исчезают...
+14.9.2025 21:27:06 [Event] Поселяется тьма.
+14.9.2025 21:27:06 [Event] Saved generating chunks...
+14.9.2025 21:27:06 [Event] Saved savegamedata...2
+14.9.2025 21:27:06 [Event] World saved! Saved 1 chunks, 0 mapchunks, 16 mapregions.
+14.9.2025 21:27:06 [Event] Оно вздыхает...
+14.9.2025 21:27:06 [Event] Shutting down 9 server threads... 
+14.9.2025 21:27:06 [Event] Killed console thread
+14.9.2025 21:27:06 [Event] Снова одиночество...
+14.9.2025 21:27:06 [Event] All threads gracefully shut down
+14.9.2025 21:27:06 [Event] Время отдохнуть.
+14.9.2025 21:27:06 [Event] Doing last tick...
+14.9.2025 21:27:06 [Event] Stopped the server!
